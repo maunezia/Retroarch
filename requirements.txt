@@ -1,0 +1,4 @@
+# Adicione suas dependências aqui (ex: pandas, Pillow)
+pandas
+Pillow
+opencv-python

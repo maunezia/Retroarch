@@ -1,0 +1,10 @@
+{
+    "version": "1.4",
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/cap32_libretro_ps3.SELF",
+    "default_core_name": "Amstrad - CPC (Caprice32)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": []
+}

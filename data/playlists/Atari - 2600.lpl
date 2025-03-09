@@ -1,0 +1,770 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+    "default_core_name": "Atari - 2600 (Stella)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "S:\\Games\\roms\\atari2600\\32 in 1 Game Cartridge (Europe).a26",
+            "label": "32 in 1 Game Cartridge (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Activision Decathlon, The (USA).a26",
+            "label": "Activision Decathlon, The (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Astroblast (USA).a26",
+            "label": "Astroblast (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Atom Smasher (USA) (Proto).a26",
+            "label": "Atom Smasher (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Base Attack (Europe).a26",
+            "label": "Base Attack (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\BASIC Programming (USA).a26",
+            "label": "Basic Programming (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Bloody Human Freeway (USA) (Proto).a26",
+            "label": "Bloody Human Freeway (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Communist Mutants from Space (USA).a26",
+            "label": "Communist Mutants from Space (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Crack'ed (USA) (Proto).a26",
+            "label": "Crack'ed (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Dice Puzzle (Europe).a26",
+            "label": "Dice Puzzle (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Double Dragon (USA).a26",
+            "label": "Double Dragon (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Dragon Defender (Europe).a26",
+            "label": "Dragon Defender (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Dragonstomper (USA).a26",
+            "label": "Dragonstomper (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Dukes of Hazzard (USA) (Proto).a26",
+            "label": "Dukes of Hazzard (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Entity, The (USA) (Proto).a26",
+            "label": "Entity, The (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Escape from the Mindmaster (USA).a26",
+            "label": "Escape from the Mindmaster (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Espial (USA).a26",
+            "label": "Espial (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Exocet (Europe).a26",
+            "label": "Exocet (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Fireball (USA).a26",
+            "label": "Fireball (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Forest (Europe).a26",
+            "label": "Forest (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Funky Fish (USA) (Proto).a26",
+            "label": "Funky Fish (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Gamma-Attack (USA).a26",
+            "label": "Gamma-Attack (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Grover's Music Maker (USA) (Proto).a26",
+            "label": "Grover's Music Maker (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Gyruss (USA).a26",
+            "label": "Gyruss (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Ikari Warriors (USA).a26",
+            "label": "Ikari Warriors (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Immies & Aggies (USA) (Proto).a26",
+            "label": "Immies & Aggies (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Ixion (USA) (Proto).a26",
+            "label": "Ixion (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\James Bond 007 (USA).a26",
+            "label": "James Bond 007 (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Killer Satellites (USA).a26",
+            "label": "Killer Satellites (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\King Kong (USA).a26",
+            "label": "King Kong (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Klax (Europe).a26",
+            "label": "Klax (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Lasercade (USA) (Proto).a26",
+            "label": "Lasercade (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Lilly Adventure (Europe).a26",
+            "label": "Lilly Adventure (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Looping (USA) (Proto).a26",
+            "label": "Looping (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Marauder (USA).a26",
+            "label": "Marauder (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Meltdown (USA) (Proto).a26",
+            "label": "Meltdown (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Miner 2049er - Starring Bounty Bob (USA).a26",
+            "label": "Miner 2049er : Starring Bounty Bob (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Miner 2049er Volume II (USA).a26",
+            "label": "Miner 2049er Volume II (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Missile Command (USA).a26",
+            "label": "Missile Command (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\MotoRodeo (USA).a26",
+            "label": "MotoRodeo (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Mountain King (USA).a26",
+            "label": "Mountain King (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Mr. Postman (Europe).a26",
+            "label": "Mr. Postman (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Mysterious Thief, A (USA) (Proto).a26",
+            "label": "A Misterious Thief (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Nightmare (Europe).a26",
+            "label": "Nightmare (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Nuts (Europe).a26",
+            "label": "Nuts (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Obelix (USA).a26",
+            "label": "Ob\u00e9lix (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Off the Wall (USA).a26",
+            "label": "Off the Wall (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Official Frogger, The (USA).a26",
+            "label": "Official Frogger, The (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Panda Chase (Europe).a26",
+            "label": "Panda Chase (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Parachute (Europe).a26",
+            "label": "Parachute (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Party Mix (USA).a26",
+            "label": "Party Mix : Bop a Buggy, Tug of War, Wizard's Keep, Down on the Line, (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Pete Rose Baseball (USA).a26",
+            "label": "Pete Rose Baseball (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Phantom Tank (Europe).a26",
+            "label": "Phantom Tank (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Phaser Patrol (USA).a26",
+            "label": "Phaser Patrol (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Pick Up (USA) (Proto).a26",
+            "label": "Pick Up (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Pizza Chef (USA) (Proto).a26",
+            "label": "Pizza Chef (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Plaque Attack (USA).a26",
+            "label": "Plaque Attack (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Pleiades (USA) (Proto).a26",
+            "label": "Pleiades (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Polaris (USA).a26",
+            "label": "Polaris (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Pole Position (USA).a26",
+            "label": "Pole Position (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Quadrun (USA).a26",
+            "label": "Quadrun (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Rabbit Transit (USA).a26",
+            "label": "Rabbit Transit (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Rampage! (USA).a26",
+            "label": "Rampage! (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Road Runner (USA).a26",
+            "label": "Road Runner (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Rocky & Bullwinkle (USA) (Proto).a26",
+            "label": "Rocky & Bullwinkle (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Rubik's Cube 3-D (USA) (Proto).a26",
+            "label": "Rubik's Cube 3D (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Rush Hour (USA) (Proto).a26",
+            "label": "Rush Hour (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Save the Whales (USA) (Proto).a26",
+            "label": "Save the Whales (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Seahawk (Europe).a26",
+            "label": "Seahawk (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Sir Lancelot (USA).a26",
+            "label": "Sir Lancelot (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Ski Hunt (Europe).a26",
+            "label": "Ski Hunt (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Ski Run (Europe).a26",
+            "label": "Ski Run (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Skiing (USA).a26",
+            "label": "Skiing (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Skindiver (Europe).a26",
+            "label": "Skindiver (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Sky Jinks (USA).a26",
+            "label": "Sky Jinks (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Snow White and the Seven Dwarfs (USA) (Proto).a26",
+            "label": "Snow White and the Seven Dwarfs (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Spinning Fireball (USA) (Proto).a26",
+            "label": "Firebug (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto).a26",
+            "label": "Star Wars : Return of the Jedi, Ewok Adventure (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Steeplechase (Europe).a26",
+            "label": "Steeplechase (video Gems)(Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Suicide Mission (USA).a26",
+            "label": "Suicide Mission (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Super Breakout (USA).a26",
+            "label": "Super Breakout (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Superman (USA).a26",
+            "label": "Superman (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Survival Island (USA).a26",
+            "label": "Survival Island (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Sword of Saros (USA).a26",
+            "label": "Sword of Saros (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\SwordQuest - EarthWorld (USA).a26",
+            "label": "SwordQuest : EarthWorld (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Taz (USA).a26",
+            "label": "Taz (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Time Warp (Europe).a26",
+            "label": "Astro Attack (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Tomarc the Barbarian (USA).a26",
+            "label": "Tomarc the Barbarian (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Tomcat - The F-14 Fighter Simulator (USA).a26",
+            "label": "Tomcat : The F-14 Fighter Simulator (USA)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Treasure Island (Europe).a26",
+            "label": "Treasure Island (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Wall Break (Europe).a26",
+            "label": "Wall Break (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Wing War (Europe).a26",
+            "label": "Wing War (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Wizard (USA) (Proto).a26",
+            "label": "Wizard (USA)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\Words-Attack (Europe) (Proto).a26",
+            "label": "Words-Attack (Europe)(Proto)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        },
+        {
+            "path": "S:\\Games\\roms\\atari2600\\World End (Europe).a26",
+            "label": "World End (Europe)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/stells_libretro.SELF",
+            "core_name": "Atari - 2600 (Stella)",
+            "crc32": "DETECT",
+            "db_name": "Atari - 2600.lpl"
+        }
+    ]
+}

@@ -1,0 +1,435 @@
+{
+    "version": "1.4",
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/3wondersb.zip",
+            "label": "Three Wonders",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/captcommb.zip",
+            "label": "Captain Commando",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/punisherbz.zip",
+            "label": "Punisher, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2acc.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2acca.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2accp2.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2amf.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2cebltw.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2dkot2.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2ebbl.zip",
+            "label": "Street Fighter 2 - The World Warrior",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2ebbl2.zip",
+            "label": "Street Fighter 2 - The World Warrior",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2ebbl3.zip",
+            "label": "Street Fighter 2 - The World Warrior",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2koryu.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2rb.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2rb2.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2rb3.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2red.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2stt.zip",
+            "label": "Street Fighter 2 - The World Warrior",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2v004.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2yyc.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sfach.zip",
+            "label": "Street Fighter Alpha: Warriors' Dreams",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sfzbch.zip",
+            "label": "Street Fighter Alpha: Warriors' Dreams",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sfzch.zip",
+            "label": "Street Fighter Alpha: Warriors' Dreams",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/wofhfh.zip",
+            "label": "Warriors Of Fate",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/lostwrld.zip",
+            "label": "Forgotten Worlds",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/megaman.zip",
+            "label": "Mega Man - The Power Battle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/chikij.zip",
+            "label": "Mega Twins",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/daimakai.zip",
+            "label": "Ghouls'n Ghosts",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/forgottn.zip",
+            "label": "Forgotten Worlds",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/ghouls.zip",
+            "label": "Ghouls'n Ghosts",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/lostwrld.zip",
+            "label": "Forgotten Worlds",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/megaman.zip",
+            "label": "Mega Man - The Power Battle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/mercs.zip",
+            "label": "Mercs",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/nemo.zip",
+            "label": "Nemo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/punisher.zip",
+            "label": "Punisher, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/punisheru.zip",
+            "label": "Punisher, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2.zip",
+            "label": "Street Fighter 2 - The World Warrior",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2j.zip",
+            "label": "Street Fighter 2 - The World Warrior",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2re.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/slammast.zip",
+            "label": "Saturday Night Slam Masters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/slammastu.zip",
+            "label": "Saturday Night Slam Masters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/strider.zip",
+            "label": "Strider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/striderj.zip",
+            "label": "Strider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/megaman.zip",
+            "label": "Mega Man - The Power Battle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/strider.zip",
+            "label": "Strider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/willow.zip",
+            "label": "Willow",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/willowj.zip",
+            "label": "Willow",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2ce.zip",
+            "label": "Street Fighter 2' - Champion Edition",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/forgottn.zip",
+            "label": "Forgotten Worlds",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/ghouls.zip",
+            "label": "Ghouls'n Ghosts",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/mercs.zip",
+            "label": "Mercs",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/sf2.zip",
+            "label": "Street Fighter 2 - The World Warrior",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/fbneo/strider.zip",
+            "label": "Strider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        }
+    ]
+}

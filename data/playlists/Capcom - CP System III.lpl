@@ -1,0 +1,291 @@
+{
+    "version": "1.4",
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+    "default_core_name": "FinalBurn Neo Light",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojo.zip",
+            "label": "Jojo's Venture",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojoba.zip",
+            "label": "Jojo's Bizarre Adventure",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojoban.zip",
+            "label": "Jojo's Bizarre Adventure",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojobane.zip",
+            "label": "Jojo's Bizarre Adventure",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojobaner1.zip",
+            "label": "Jojo's Bizarre Adventure",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojobanr1.zip",
+            "label": "Jojo's Bizarre Adventure",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojobar1.zip",
+            "label": "Jojo's Bizarre Adventure",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojoj.zip",
+            "label": "Jojo's Venture",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojojr1.zip",
+            "label": "Jojo's Venture",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojojr2.zip",
+            "label": "Jojo's Venture",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojon.zip",
+            "label": "Jojo's Venture",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojonr1.zip",
+            "label": "Jojo's Venture",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojonr2.zip",
+            "label": "Jojo's Venture",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojor1.zip",
+            "label": "Jojo's Venture",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/jojor2.zip",
+            "label": "Jojo's Venture",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/redearth.zip",
+            "label": "Red Earth",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/redearthr1.zip",
+            "label": "Red Earth",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii.zip",
+            "label": "Street Fighter 3 - New Generation",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii2.zip",
+            "label": "Street Fighter 3 2nd Impact - Giant Attack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii2j.zip",
+            "label": "Street Fighter 3 2nd Impact - Giant Attack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii2n.zip",
+            "label": "Street Fighter 3 2nd Impact - Giant Attack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii3.zip",
+            "label": "Street Fighter 3 3rd Strike - Fight For The Future",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii3n.zip",
+            "label": "Street Fighter 3 3rd Strike - Fight For The Future",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii3nr1.zip",
+            "label": "Street Fighter 3 3rd Strike - Fight For The Future",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii3r1.zip",
+            "label": "Street Fighter 3 3rd Strike - Fight For The Future",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii3u.zip",
+            "label": "Street Fighter 3 3rd Strike - Fight For The Future",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiii3ur1.zip",
+            "label": "Street Fighter 3 3rd Strike - Fight For The Future",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiiia.zip",
+            "label": "Street Fighter 3 - New Generation",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiiih.zip",
+            "label": "Street Fighter 3 - New Generation",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiiij.zip",
+            "label": "Street Fighter 3 - New Generation",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiiin.zip",
+            "label": "Street Fighter 3 - New Generation",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiiina.zip",
+            "label": "Street Fighter 3 - New Generation",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/sfiiiu.zip",
+            "label": "Street Fighter 3 - New Generation",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/warzard.zip",
+            "label": "Red Earth",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        },
+        {
+            "path": "/dev_hdd0/ROMS/cps3/warzardr1.zip",
+            "label": "Red Earth",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_light_libretro_ps3.SELF",
+            "core_name": "FinalBurn Neo Light",
+            "crc32": "DETECT",
+            "db_name": "FBNeo - Arcade Games.lpl"
+        }
+    ]
+}

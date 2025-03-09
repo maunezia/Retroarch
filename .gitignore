@@ -1,0 +1,32 @@
+# Ignorar ambientes virtuais do Python
+venv/
+.env/
+*.pyc
+
+__pycache__/
+
+# Ignorar arquivos de configuração
+data/config/
+data/images/
+data/info/
+data/pkls/
+data/roms/
+data/temp/
+data/zips/
+
+
+# Ignorar configurações de IDEs (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Ignorar arquivos de log e temporários
+*.log
+*.sqlite3
+.DS_Store
+*.csv
+
+# Ignorar credenciais e configurações sensíveis
+*.ipynb
+config.ini
+secrets.json
