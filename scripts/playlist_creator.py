@@ -138,7 +138,7 @@ class PlaylistCreator:
 
             with open(f'{self.config_dir}/{system_name}.ini', 'w') as configfile:
                 config.write(configfile)
-    
+
 if __name__ == '__main__':
     config_path = "data/inis/atari2600.ini"
     creator = PlaylistCreator(info_dir="data/info", config_dir="data/config", playlist_dir="data/playlists")
