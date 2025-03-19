@@ -1,0 +1,120 @@
+{
+    "frame": {
+        "width": 800,
+        "height": 800,
+        "color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "font": {
+        "path": "data/images/font.ttf"
+    },
+    "images": {
+        "logo": {
+            "path": "data/images/logo.png",
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "size": 1.2000000000000002,
+            "rotation": 0,
+            "area": [
+                150,
+                150
+            ]
+        },
+        "cover": {
+            "path": "data/images/cover.png",
+            "x": 0,
+            "y": 180,
+            "z": 4,
+            "size": 0.8999999999999999,
+            "rotation": 0,
+            "area": [
+                200,
+                300
+            ]
+        },
+        "wheel": {
+            "path": "data/images/wheel.png",
+            "x": 545,
+            "y": 310,
+            "z": 3,
+            "size": 1.7000000000000006,
+            "rotation": 0,
+            "area": [
+                150,
+                150
+            ]
+        },
+        "screenshot": {
+            "path": "data/images/screenshot.png",
+            "x": 120,
+            "y": 0,
+            "z": 2,
+            "size": 1.7000000000000002,
+            "rotation": 0,
+            "area": [
+                400,
+                300
+            ],
+            "vertical_scale": 1.0
+        }
+    },
+    "texts": {
+        "game_name": {
+            "x": 0,
+            "y": 440,
+            "z": 3,
+            "font_size": 49,
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "area": [
+                780,
+                50
+            ]
+        },
+        "game_description": {
+            "x": 5,
+            "y": 545,
+            "z": 4,
+            "font_size": 35,
+            "color": [
+                255,
+                255,
+                255
+            ],
+            "area": [
+                790,
+                240
+            ]
+        }
+    },
+    "rating": {
+        "x": 80,
+        "y": 495,
+        "z": 5,
+        "size": 1.0,
+        "star_full": "data/images/star_full.png",
+        "star_half": "data/images/star_half.png",
+        "star_empty": "data/images/star_empty.png",
+        "score": 4.5
+    },
+    "players": {
+        "x": 15,
+        "y": 485,
+        "z": 3,
+        "size": 0.5,
+        "rotation": 0,
+        "area": [
+            100,
+            100
+        ],
+        "single": "data/images/sp.png",
+        "multi": "data/images/mp.png"
+    }
+}

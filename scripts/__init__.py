@@ -1,5 +1,5 @@
-from .data_loader import load_pkl_roms
-from ._image_processor import ImageProcessor
+from .data_loader import GameDataInsights
+from ..scripts.image_processor import GameImageEditor
 from .playlist_creator import PlaylistCreator
 from .wallpaper_generator import WallpaperGenerator
 from .ftp_manager import FTPManager
