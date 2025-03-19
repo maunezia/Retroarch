@@ -1,0 +1,146 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/flipjack.zip",
+            "label": "Flipper Jack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/galspnbl.zip",
+            "label": "Gals Pinball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hotpinbl.zip",
+            "label": "Hot Pinball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/musicbal.zip",
+            "label": "Music Ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pbaction.zip",
+            "label": "Pinball Action",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pbaction2.zip",
+            "label": "Pinball Action",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pbaction3.zip",
+            "label": "Pinball Action",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pbaction4.zip",
+            "label": "Pinball Action",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pbactiont.zip",
+            "label": "Pinball Action",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pinbo.zip",
+            "label": "Pinbo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spdball.zip",
+            "label": "Speed Ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/speedbal.zip",
+            "label": "Speed Ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/speedbala.zip",
+            "label": "Speed Ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/timescan.zip",
+            "label": "Time Scanner",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/timescan1.zip",
+            "label": "Time Scanner",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tomagic.zip",
+            "label": "Tom Tom Magic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vspinball.zip",
+            "label": "Vs. Pinball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Pinball.lpl"
+        }
+    ]
+}

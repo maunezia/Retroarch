@@ -1,0 +1,4426 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/600.zip",
+            "label": "Turtles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/abscam.zip",
+            "label": "Abscam",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/actionhw.zip",
+            "label": "Action Hollywood",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/alibaba.zip",
+            "label": "Ali Baba And 40 Thieves",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/alibabab.zip",
+            "label": "Ali Baba And 40 Thieves",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/alienar.zip",
+            "label": "Alien Arena",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/alienaru.zip",
+            "label": "Alien Arena",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aliensyn.zip",
+            "label": "Alien Syndrome",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aliensyn2.zip",
+            "label": "Alien Syndrome",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aliensyn3.zip",
+            "label": "Alien Syndrome",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aliensyn5.zip",
+            "label": "Alien Syndrome",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aliensyn7.zip",
+            "label": "Alien Syndrome",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aliensynj.zip",
+            "label": "Alien Syndrome",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aliensynjo.zip",
+            "label": "Alien Syndrome",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/amidar.zip",
+            "label": "Amidar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/amidar1.zip",
+            "label": "Amidar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/amidarb.zip",
+            "label": "Amidar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/amidaro.zip",
+            "label": "Amidar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/amidars.zip",
+            "label": "Amidar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/amidaru.zip",
+            "label": "Amidar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/amigo.zip",
+            "label": "Amidar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/anteater.zip",
+            "label": "Anteater",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/anteaterg.zip",
+            "label": "Anteater",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/anteateruk.zip",
+            "label": "Anteater",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/armorcar.zip",
+            "label": "Armored Car",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/armorcar2.zip",
+            "label": "Armored Car",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/atompunk.zip",
+            "label": "Dynablaster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bagman.zip",
+            "label": "Bagman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bagmanj.zip",
+            "label": "Bagman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bagmans.zip",
+            "label": "Bagman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bagmans3.zip",
+            "label": "Bagman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bagmans4.zip",
+            "label": "Bagman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bagnard.zip",
+            "label": "Bagman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bagnarda.zip",
+            "label": "Bagman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bagnardi.zip",
+            "label": "Bagman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bagnardio.zip",
+            "label": "Bagman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/banbam.zip",
+            "label": "Banbam",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bbmanw.zip",
+            "label": "New Dyna Blaster - Global Quest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bbmanwj.zip",
+            "label": "New Dyna Blaster - Global Quest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bbmanwja.zip",
+            "label": "New Dyna Blaster - Global Quest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/berzerk.zip",
+            "label": "Berzerk",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/berzerka.zip",
+            "label": "Berzerk",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/berzerkb.zip",
+            "label": "Berzerk",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/berzerkf.zip",
+            "label": "Berzerk",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/berzerkg.zip",
+            "label": "Berzerk",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/berzerks.zip",
+            "label": "Berzerk",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blasto.zip",
+            "label": "Blasto",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blkbustr.zip",
+            "label": "Mr. Jong",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blockade.zip",
+            "label": "Blockade",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blueprnt.zip",
+            "label": "Blue Print",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blueprntj.zip",
+            "label": "Blue Print",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bombrman.zip",
+            "label": "Dynablaster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/boobhack.zip",
+            "label": "Kid No Hore Hore Daisakusen",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/borench.zip",
+            "label": "Borench",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/borencha.zip",
+            "label": "Borench",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/borenchj.zip",
+            "label": "Borench",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/botanic.zip",
+            "label": "Botanic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/botanicf.zip",
+            "label": "Botanic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/breywood.zip",
+            "label": "Shackled",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/brix.zip",
+            "label": "Zzyzzyxx",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bubbles.zip",
+            "label": "Bubbles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bubblesp.zip",
+            "label": "Bubbles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bubblesr.zip",
+            "label": "Bubbles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bucaner.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bucanera.zip",
+            "label": "Buccaneer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/burglarx.zip",
+            "label": "Burglar X",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/calipso.zip",
+            "label": "Calipso",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/calorie.zip",
+            "label": "Calorie Kun Vs Moguranian",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/calorieb.zip",
+            "label": "Calorie Kun Vs Moguranian",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cameltry.zip",
+            "label": "Cameltry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cameltrya.zip",
+            "label": "Cameltry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cameltryau.zip",
+            "label": "Cameltry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cameltryj.zip",
+            "label": "Cameltry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/canvas.zip",
+            "label": "Canvas Croquis",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cavelon.zip",
+            "label": "Cavelon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ccastles.zip",
+            "label": "Crystal Castles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ccastles1.zip",
+            "label": "Crystal Castles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ccastles2.zip",
+            "label": "Crystal Castles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ccastles3.zip",
+            "label": "Crystal Castles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ccastlesf.zip",
+            "label": "Crystal Castles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ccastlesg.zip",
+            "label": "Crystal Castles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ccastlesj.zip",
+            "label": "Crystal Castles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ccastlesp.zip",
+            "label": "Crystal Castles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/chaknpop.zip",
+            "label": "Chack'n Pop",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/changes.zip",
+            "label": "Changes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/changesa.zip",
+            "label": "Changes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/checkman.zip",
+            "label": "Check Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/checkmanj.zip",
+            "label": "Check Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cheesech.zip",
+            "label": "Cheese Chase",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/clapapa.zip",
+            "label": "Rootin' Tootin' / La-pa-pa",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/clapapa2.zip",
+            "label": "Rootin' Tootin' / La-pa-pa",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/clocknch.zip",
+            "label": "Lock'n'chase (deco Cassette)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/clocknchj.zip",
+            "label": "Lock'n'chase (deco Cassette)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/comotion.zip",
+            "label": "Comotion",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/countrun.zip",
+            "label": "Counter Run",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/countrunb.zip",
+            "label": "Counter Run",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crazyblk.zip",
+            "label": "Mr. Jong",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crazywar.zip",
+            "label": "Crazy War",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crbaloon.zip",
+            "label": "Crazy Balloon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crbaloon2.zip",
+            "label": "Crazy Balloon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crkdown.zip",
+            "label": "Crack Down",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crkdownj.zip",
+            "label": "Crack Down",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crkdownu.zip",
+            "label": "Crack Down",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crockman.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crockmnf.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crush.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crush2.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crush3.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crush4.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crush5.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crushbl.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crushbl2.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crushbl3.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crushs.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ctisland.zip",
+            "label": "Treasure Island",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ctisland2.zip",
+            "label": "Treasure Island",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ctisland3.zip",
+            "label": "Treasure Island",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ctrpllrp.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/czeroize.zip",
+            "label": "Zeroize",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dacholer.zip",
+            "label": "Dacholer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/darkseal.zip",
+            "label": "Dark Seal",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/darkseal1.zip",
+            "label": "Dark Seal",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/darksealj.zip",
+            "label": "Dark Seal",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ddungeon.zip",
+            "label": "Dangerous Dungeons",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ddungeone.zip",
+            "label": "Dangerous Dungeons",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/devilfsh.zip",
+            "label": "Devil Fish",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/devilfshg.zip",
+            "label": "Devil Fish",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/devilfshgb.zip",
+            "label": "Devil Fish",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/diamond.zip",
+            "label": "Diamond Run",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dicegame.zip",
+            "label": "Dice - The Dice Game!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/digdug.zip",
+            "label": "Dig Dug",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/digdug2.zip",
+            "label": "Dig Dug II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/digdug2o.zip",
+            "label": "Dig Dug II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/digdugat.zip",
+            "label": "Dig Dug",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/diggerma.zip",
+            "label": "Digger Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dingo.zip",
+            "label": "Dingo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/disco.zip",
+            "label": "Disco No.1",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/discof.zip",
+            "label": "Disco No.1",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dngrtrck.zip",
+            "label": "Rally X",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dommy.zip",
+            "label": "Dommy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/donight.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dorachan.zip",
+            "label": "Dora-chan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dorodon.zip",
+            "label": "Dorodon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dorodon2.zip",
+            "label": "Dorodon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dorunrun.zip",
+            "label": "Do! Run Run",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dorunrun2.zip",
+            "label": "Do! Run Run",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dorunrunc.zip",
+            "label": "Do! Run Run",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dorunrunca.zip",
+            "label": "Do! Run Run",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dotrikun.zip",
+            "label": "Dottori Kun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dotrikun2.zip",
+            "label": "Dottori Kun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dotriman.zip",
+            "label": "Dottori-man Jr",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dremshpr.zip",
+            "label": "Dream Shopper",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dungeonm.zip",
+            "label": "Dungeon Magic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dungeonmu.zip",
+            "label": "Dungeon Magic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dynablst.zip",
+            "label": "Dynablaster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eggor.zip",
+            "label": "Eggor",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eggs.zip",
+            "label": "Scrambled Egg",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/elecyoyo.zip",
+            "label": "Electric Yo-Yo, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eprom.zip",
+            "label": "Escape From The Planet Of The Robot Monsters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/exvania.zip",
+            "label": "Exvania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/exvaniaj.zip",
+            "label": "Exvania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eyes.zip",
+            "label": "Eyes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eyes2.zip",
+            "label": "Eyes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eyesb.zip",
+            "label": "Eyes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eyeszacb.zip",
+            "label": "Eyes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fantasyg.zip",
+            "label": "Fantasy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fantasyg2.zip",
+            "label": "Fantasy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fantasyj.zip",
+            "label": "Fantasy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fantasyu.zip",
+            "label": "Fantasy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/farmer.zip",
+            "label": "Ikki",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fastlane.zip",
+            "label": "Fast Lane",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fball.zip",
+            "label": "Fire Ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fitter.zip",
+            "label": "Round-up",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fitterbl.zip",
+            "label": "Round-up",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/freeze.zip",
+            "label": "Freeze",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/frenzy.zip",
+            "label": "Frenzy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/frogf.zip",
+            "label": "Frogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/frogg.zip",
+            "label": "Frogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/frogger.zip",
+            "label": "Frogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/froggermc.zip",
+            "label": "Frogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/froggers.zip",
+            "label": "Frogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/froggers1.zip",
+            "label": "Frogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/froggers2.zip",
+            "label": "Frogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/froggers3.zip",
+            "label": "Frogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/froggrs.zip",
+            "label": "Frogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gatedoom.zip",
+            "label": "Dark Seal",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gatedoom1.zip",
+            "label": "Dark Seal",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gaunt2.zip",
+            "label": "Gauntlet II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gaunt22p.zip",
+            "label": "Gauntlet II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gaunt22p1.zip",
+            "label": "Gauntlet II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gaunt22pg.zip",
+            "label": "Gauntlet II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gaunt2g.zip",
+            "label": "Gauntlet II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntlet.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntlet2p.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntlet2pg.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntlet2pg1.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntlet2pj.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntlet2pj2.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntlet2pr3.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletg.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletgr3.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletgr6.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletgr8.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletj.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletj12.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletr1.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletr2.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletr4.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletr5.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletr7.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntletr9.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gauntlets.zip",
+            "label": "Gauntlet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ghostmun.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gogomile.zip",
+            "label": "Go Go! Mile Smile",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gogomileo.zip",
+            "label": "Go Go! Mile Smile",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gorkans.zip",
+            "label": "Mr. Tnt",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gotya.zip",
+            "label": "Hand, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/grasspin.zip",
+            "label": "Grasspin",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/grobda.zip",
+            "label": "Grobda",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/grobda2.zip",
+            "label": "Grobda",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/grobda3.zip",
+            "label": "Grobda",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/guzzler.zip",
+            "label": "Guzzler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hangly.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hangly2.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hangly3.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/headon.zip",
+            "label": "Head On",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/headon1.zip",
+            "label": "Head On",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/headonb.zip",
+            "label": "Head On",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/headonmz.zip",
+            "label": "Head On",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/headonn.zip",
+            "label": "Head On",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/headons.zip",
+            "label": "Head On",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/headonsa.zip",
+            "label": "Head On",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/heiankyo.zip",
+            "label": "Heiankyo Alien",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hero.zip",
+            "label": "Hero",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/herodk.zip",
+            "label": "Hero",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/herodku.zip",
+            "label": "Hero",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/higemaru.zip",
+            "label": "Pirate Ship Higemaru",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hocrash.zip",
+            "label": "Head On",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/horekid.zip",
+            "label": "Kid No Hore Hore Daisakusen",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/horekidb.zip",
+            "label": "Kid No Hore Hore Daisakusen",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hotshock.zip",
+            "label": "Hot Shocker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hotshockb.zip",
+            "label": "Hot Shocker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hustle.zip",
+            "label": "Hustle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hyperpac.zip",
+            "label": "Hyper Pacman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hyperpacb.zip",
+            "label": "Hyper Pacman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/igmo.zip",
+            "label": "Igmo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ikki.zip",
+            "label": "Ikki",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/imsorry.zip",
+            "label": "I'm Sorry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/imsorryj.zip",
+            "label": "I'm Sorry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/intrepid.zip",
+            "label": "Intrepid",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/intrepid2.zip",
+            "label": "Intrepid",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/intrepidb.zip",
+            "label": "Intrepid",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/intrepidb2.zip",
+            "label": "Intrepid",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/intrepidb3.zip",
+            "label": "Intrepid",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ironfort.zip",
+            "label": "Iron Fortress",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ironfortc.zip",
+            "label": "Iron Fortress",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/irrmaze.zip",
+            "label": "Irritating Maze",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/joinem.zip",
+            "label": "Joinem",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/jollyjgr.zip",
+            "label": "Jolly Jogger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/journey.zip",
+            "label": "Journey",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/joyman.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/jrpacman.zip",
+            "label": "Jr. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/jrpacmanf.zip",
+            "label": "Jr. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/jungler.zip",
+            "label": "Jungler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kamikcab.zip",
+            "label": "Kamikaze Cabbie",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kickboy.zip",
+            "label": "Kick Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kngtmare.zip",
+            "label": "Knightmare",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/knockout.zip",
+            "label": "Triple Punch",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/koroleva.zip",
+            "label": "Snezhnaja Koroleva",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/korosuke.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kram.zip",
+            "label": "Kram",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ladybug.zip",
+            "label": "Lady Bug",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ladybugb.zip",
+            "label": "Lady Bug",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ladybugb2.zip",
+            "label": "Lady Bug",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ladybugg.zip",
+            "label": "Lady Bug",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ladyfrog.zip",
+            "label": "Lady Frog",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lightbr.zip",
+            "label": "Dungeon Magic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lightbrj.zip",
+            "label": "Dungeon Magic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lnc.zip",
+            "label": "Lock'n'chase",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/looper.zip",
+            "label": "Changes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/losttomb.zip",
+            "label": "Lost Tomb",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/losttombh.zip",
+            "label": "Lost Tomb",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/loverboy.zip",
+            "label": "Lover Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/machomou.zip",
+            "label": "Macho Mouse",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/maddonna.zip",
+            "label": "Mad Donna",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/maketrax.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/maketrxb.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/marvins.zip",
+            "label": "Marvin's Maze",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mazeinv.zip",
+            "label": "Maze Invaders",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mbrush.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/merlinmm.zip",
+            "label": "Merlins Money Maze",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/metlfrzr.zip",
+            "label": "Metal Freezer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mgcrystl.zip",
+            "label": "Magical Crystals",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mgcrystlj.zip",
+            "label": "Magical Crystals",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mgcrystlo.zip",
+            "label": "Magical Crystals",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mikie.zip",
+            "label": "Mikie",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mikiehs.zip",
+            "label": "Mikie",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mikiej.zip",
+            "label": "Mikie",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mineswpr.zip",
+            "label": "Minesweeper",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mineswpr4.zip",
+            "label": "Minesweeper",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mmaze.zip",
+            "label": "Marchen Maze",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mmaze2.zip",
+            "label": "Marchen Maze",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mofflott.zip",
+            "label": "Maze Of Flott",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/moguchan.zip",
+            "label": "Mogu Chan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/monymony.zip",
+            "label": "Money Money",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/monymony2.zip",
+            "label": "Money Money",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mouser.zip",
+            "label": "Mouser",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mouserc.zip",
+            "label": "Mouser",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrdo.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrdobl.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrdofabr.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrdofix.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrdot.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrdoy.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrdu.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrjong.zip",
+            "label": "Mr. Jong",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrkicker.zip",
+            "label": "Mr. Kicker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrlo.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrsdyna.zip",
+            "label": "Mrs. Dynamite",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrtnt.zip",
+            "label": "Mr. Tnt",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mschamp.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mschamps.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/msheartb.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmab.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmab2.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacman.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmanbcc.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmanbco.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmanbg.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmanbg2.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmanbgd.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmanbhe.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmanblt.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmanblt2.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmanlai.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmat.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmbe.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmbmc.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacmnf.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspacpls.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mustache.zip",
+            "label": "Mustache Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mustachei.zip",
+            "label": "Mustache Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mwalk.zip",
+            "label": "Michael Jackson's Moonwalker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mwalkbl2.zip",
+            "label": "Michael Jackson's Moonwalker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mwalkd.zip",
+            "label": "Michael Jackson's Moonwalker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mwalkj.zip",
+            "label": "Michael Jackson's Moonwalker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mwalkjd.zip",
+            "label": "Michael Jackson's Moonwalker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mwalku.zip",
+            "label": "Michael Jackson's Moonwalker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mwalkud.zip",
+            "label": "Michael Jackson's Moonwalker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mystston.zip",
+            "label": "Mysterious Stones - Dr. John's Adventure",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/myststono.zip",
+            "label": "Mysterious Stones - Dr. John's Adventure",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/myststonoi.zip",
+            "label": "Mysterious Stones - Dr. John's Adventure",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/natodef.zip",
+            "label": "Nato Defense",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/naughtyb.zip",
+            "label": "Naughty Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/naughtyba.zip",
+            "label": "Naughty Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/naughtybb.zip",
+            "label": "Naughty Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/naughtybc.zip",
+            "label": "Naughty Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/neobombe.zip",
+            "label": "Neo Bomberman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/neomrdo.zip",
+            "label": "Neo Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/netwars.zip",
+            "label": "Net Wars",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/newapunk.zip",
+            "label": "New Dyna Blaster - Global Quest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/newpuc2.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/newpuc2b.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/newpuckx.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/newsin7.zip",
+            "label": "New Sinbad 7",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nibbler.zip",
+            "label": "Nibbler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nibbler6.zip",
+            "label": "Nibbler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nibbler7.zip",
+            "label": "Nibbler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nibbler8.zip",
+            "label": "Nibbler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nibblera.zip",
+            "label": "Nibbler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nibblero.zip",
+            "label": "Nibbler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nibblerp.zip",
+            "label": "Nibbler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nrallyx.zip",
+            "label": "New Rally X",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/olibochu.zip",
+            "label": "Oli-boo-chu",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ottopz.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacgal.zip",
+            "label": "Ms. Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacheart.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/packetman.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacman.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanbl.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanbla.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanblc.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanblv.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanf.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanfm.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmania.zip",
+            "label": "Pac-mania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmaniaj.zip",
+            "label": "Pac-mania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmaniao.zip",
+            "label": "Pac-mania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanpe.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanso.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmansp.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanug.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanvg.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmod.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacnchmp.zip",
+            "label": "Pac & Pal",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacnpal.zip",
+            "label": "Pac & Pal",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacnpal2.zip",
+            "label": "Pac & Pal",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacplus.zip",
+            "label": "Pac-man Plus",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacuman.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/paintrlr.zip",
+            "label": "Crush Roller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pass.zip",
+            "label": "Pass",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pastelis.zip",
+            "label": "Pastel Island",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pengo.zip",
+            "label": "Pengo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pengob.zip",
+            "label": "Pengo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/penta.zip",
+            "label": "Pengo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/perfrman.zip",
+            "label": "Performan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/perfrmanu.zip",
+            "label": "Performan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pettanp.zip",
+            "label": "Banbam",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pickin.zip",
+            "label": "Pickin'",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/piranha.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/piranhah.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/piranhao.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/popeyeman.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/popflame.zip",
+            "label": "Pop Flamer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/popflamea.zip",
+            "label": "Pop Flamer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/popflameb.zip",
+            "label": "Pop Flamer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/popflamen.zip",
+            "label": "Pop Flamer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/psurge.zip",
+            "label": "Power Surge",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puckman.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puckmanb.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puckmanf.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puckmanh.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puckmod.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/quartet.zip",
+            "label": "Quartet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/quartet2.zip",
+            "label": "Quartet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/quartet2a.zip",
+            "label": "Quartet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/quarteta.zip",
+            "label": "Quartet",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/raiders5.zip",
+            "label": "Raiders5",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/raiders5t.zip",
+            "label": "Raiders5",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/raiders5ta.zip",
+            "label": "Raiders5",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/raimais.zip",
+            "label": "Raimais",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/raimaisj.zip",
+            "label": "Raimais",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/raimaisjo.zip",
+            "label": "Raimais",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rallyx.zip",
+            "label": "Rally X",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rallyxa.zip",
+            "label": "Rally X",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rallyxm.zip",
+            "label": "Rally X",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rallyxmr.zip",
+            "label": "Rally X",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/reactor.zip",
+            "label": "Reactor",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ribbit.zip",
+            "label": "Ribbit!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ribbitj.zip",
+            "label": "Ribbit!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rockduck.zip",
+            "label": "Rock Duck",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rockrage.zip",
+            "label": "Rock'n Rage",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rockragea.zip",
+            "label": "Rock'n Rage",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rockragej.zip",
+            "label": "Rock'n Rage",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/roishtar.zip",
+            "label": "Return of Ishtar, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rompers.zip",
+            "label": "Rompers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/romperso.zip",
+            "label": "Rompers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/roundup.zip",
+            "label": "Round-up",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/route16.zip",
+            "label": "Route 16",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/route16a.zip",
+            "label": "Route 16",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/route16b.zip",
+            "label": "Route 16",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/route16bl.zip",
+            "label": "Route 16",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/route16c.zip",
+            "label": "Route 16",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/route16d.zip",
+            "label": "Route 16",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/routex.zip",
+            "label": "Route 16",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/routexa.zip",
+            "label": "Route 16",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rugrats.zip",
+            "label": "Wiping",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rumba.zip",
+            "label": "Rumba Lumber",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/safarir.zip",
+            "label": "Safari Rally",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/safarirj.zip",
+            "label": "Safari Rally",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/scregg.zip",
+            "label": "Scrambled Egg",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/selfeena.zip",
+            "label": "Sel Feena",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shackled.zip",
+            "label": "Shackled",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sharkatt.zip",
+            "label": "Shark Attack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shocking.zip",
+            "label": "Shocking",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/snapper.zip",
+            "label": "Snapper",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/solarfox.zip",
+            "label": "Solar Fox",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/solomon.zip",
+            "label": "Solomon's Key",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/solomonj.zip",
+            "label": "Solomon's Key",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spatter.zip",
+            "label": "Spatter",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spiero.zip",
+            "label": "Do! Run Run",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ssanchan.zip",
+            "label": "Spatter",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/startrks.zip",
+            "label": "Star Trek (Head On hardware)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/stlforce.zip",
+            "label": "Steel Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/stoffy.zip",
+            "label": "Super Toffy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/stoffyu.zip",
+            "label": "Super Toffy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/streakng.zip",
+            "label": "Streaking",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/streaknga.zip",
+            "label": "Streaking",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/supcrash.zip",
+            "label": "Head On",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/supduck.zip",
+            "label": "Hell Out",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/superbon.zip",
+            "label": "Agent Super Bond",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/superpac.zip",
+            "label": "Super Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/superpacm.zip",
+            "label": "Super Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/suprloco.zip",
+            "label": "Super Locomotive",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/suprlocoo.zip",
+            "label": "Super Locomotive",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tankbust.zip",
+            "label": "Tank Busters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tankfrce.zip",
+            "label": "Tank Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tankfrce4.zip",
+            "label": "Tank Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tankfrcej.zip",
+            "label": "Tank Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/taxidriv.zip",
+            "label": "Taxi Driver",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thehand.zip",
+            "label": "Hand, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thepit.zip",
+            "label": "Pit, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thepitj.zip",
+            "label": "Pit, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thepitm.zip",
+            "label": "Pit, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thepitu1.zip",
+            "label": "Pit, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thepitu2.zip",
+            "label": "Pit, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thief.zip",
+            "label": "Thief",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/timetunl.zip",
+            "label": "Time Tunnel",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tinklpit.zip",
+            "label": "Tinkle Pit",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/titanpac.zip",
+            "label": "Puck Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/todruaga.zip",
+            "label": "Tower of Druaga, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/todruagao.zip",
+            "label": "Tower of Druaga, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/todruagas.zip",
+            "label": "Tower of Druaga, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/toffy.zip",
+            "label": "Toffy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/toucheme.zip",
+            "label": "Touche Me",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/touchemea.zip",
+            "label": "Touche Me",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/toypop.zip",
+            "label": "Toypop",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/trikitri.zip",
+            "label": "Lover Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/triplep.zip",
+            "label": "Triple Punch",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/triplepa.zip",
+            "label": "Triple Punch",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/trog.zip",
+            "label": "Trog",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/trog3.zip",
+            "label": "Trog",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/trog3a.zip",
+            "label": "Trog",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/trog4.zip",
+            "label": "Trog",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/trogpa4.zip",
+            "label": "Trog",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/trogpa5.zip",
+            "label": "Trog",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/trogpa6.zip",
+            "label": "Trog",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ttfitter.zip",
+            "label": "Round-up",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/turpin.zip",
+            "label": "Turtles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/turpins.zip",
+            "label": "Turtles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/turtles.zip",
+            "label": "Turtles",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tutankhm.zip",
+            "label": "Tutankham",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tutankhms.zip",
+            "label": "Tutankham",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/twinbrat.zip",
+            "label": "Twin Brats",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/twinbrata.zip",
+            "label": "Twin Brats",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/twinbratb.zip",
+            "label": "Twin Brats",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/twinkle.zip",
+            "label": "Twinkle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/twinklea.zip",
+            "label": "Twinkle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tylz.zip",
+            "label": "Tylz",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ufosensi.zip",
+            "label": "Ufo Senshi Yohko Chan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/unclepoo.zip",
+            "label": "Uncle Poo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/upndown.zip",
+            "label": "Up'n Down",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/upndownu.zip",
+            "label": "Up'n Down",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vanvan.zip",
+            "label": "Van-van Car",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vanvanb.zip",
+            "label": "Van-van Car",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vanvank.zip",
+            "label": "Van-van Car",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vsbattlecity.zip",
+            "label": "Vs. Battle City",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vsclucluland.zip",
+            "label": "Vs. Clu Clu Land",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wiping.zip",
+            "label": "Wiping",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wits.zip",
+            "label": "Wit's",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/xybots.zip",
+            "label": "Xybots",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/xybots0.zip",
+            "label": "Xybots",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/xybots1.zip",
+            "label": "Xybots",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/xybotsf.zip",
+            "label": "Xybots",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/xybotsg.zip",
+            "label": "Xybots",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/yankeedo.zip",
+            "label": "Mr. Do!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/yellowcbb.zip",
+            "label": "Kamikaze Cabbie",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/yellowcbj.zip",
+            "label": "Kamikaze Cabbie",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zigzagb.zip",
+            "label": "Zig Zag",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zigzagb2.zip",
+            "label": "Zig Zag",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zzyzzyxx.zip",
+            "label": "Zzyzzyxx",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zzyzzyxx2.zip",
+            "label": "Zzyzzyxx",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Maze.lpl"
+        }
+    ]
+}

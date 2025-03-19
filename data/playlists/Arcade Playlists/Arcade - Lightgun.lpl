@@ -1,0 +1,1026 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/alien3.zip",
+            "label": "Alien3: The Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/alien3j.zip",
+            "label": "Alien3: The Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/alien3u.zip",
+            "label": "Alien3: The Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bang.zip",
+            "label": "Bang!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bangj.zip",
+            "label": "Bang!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bbusters.zip",
+            "label": "Beast Busters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bbustersj.zip",
+            "label": "Beast Busters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bbustersja.zip",
+            "label": "Beast Busters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bbustersu.zip",
+            "label": "Beast Busters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bbustersua.zip",
+            "label": "Beast Busters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bronx.zip",
+            "label": "Cycle Shooting",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bubbletr.zip",
+            "label": "Bubble Trouble",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bubbletrj.zip",
+            "label": "Bubble Trouble",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/catch22.zip",
+            "label": "Combat / Catch-22",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cheyenne.zip",
+            "label": "Cheyenne",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/chiller.zip",
+            "label": "Chiller",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/claypign.zip",
+            "label": "Clay Pigeon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/colt.zip",
+            "label": "N.y. Captor",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/combat.zip",
+            "label": "Combat / Catch-22",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cracksht.zip",
+            "label": "Crackshot",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crazyfgt.zip",
+            "label": "Crazy Fight",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crossbow.zip",
+            "label": "Crossbow",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cyclshtg.zip",
+            "label": "Cycle Shooting",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/deerhunt.zip",
+            "label": "Deer Hunting Usa V4.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/deerhunta.zip",
+            "label": "Deer Hunting Usa V4.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/deerhuntb.zip",
+            "label": "Deer Hunting Usa V4.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/deerhuntc.zip",
+            "label": "Deer Hunting Usa V4.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/deerhuntd.zip",
+            "label": "Deer Hunting Usa V4.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/deerhunte.zip",
+            "label": "Deer Hunting Usa V4.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/deerhuntj.zip",
+            "label": "Deer Hunting Usa V4.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dragngun.zip",
+            "label": "Dragon Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dragngunj.zip",
+            "label": "Dragon Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gdfs.zip",
+            "label": "Mobile Suit Gundam Final Shooting",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gollygho.zip",
+            "label": "Golly! Ghost!",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gunbuletj.zip",
+            "label": "Point Blank",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gunbuletw.zip",
+            "label": "Point Blank",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gunbustr.zip",
+            "label": "Gunbuster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gunbustrj.zip",
+            "label": "Gunbuster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gunbustru.zip",
+            "label": "Gunbuster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hitnmiss.zip",
+            "label": "Hit 'n Miss",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hitnmiss2.zip",
+            "label": "Hit 'n Miss",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lethalen.zip",
+            "label": "Lethal Enforcers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lethaleneaa.zip",
+            "label": "Lethal Enforcers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lethaleneab.zip",
+            "label": "Lethal Enforcers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lethalenead.zip",
+            "label": "Lethal Enforcers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lethaleneae.zip",
+            "label": "Lethal Enforcers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lethalenua.zip",
+            "label": "Lethal Enforcers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lethalenub.zip",
+            "label": "Lethal Enforcers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lethalenux.zip",
+            "label": "Lethal Enforcers",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lghost.zip",
+            "label": "Laser Ghost",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lghostd.zip",
+            "label": "Laser Ghost",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lghostj.zip",
+            "label": "Laser Ghost",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lghostu.zip",
+            "label": "Laser Ghost",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lghostud.zip",
+            "label": "Laser Ghost",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/loffire.zip",
+            "label": "Line Of Fire / Bakudan Yarou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/loffired.zip",
+            "label": "Line Of Fire / Bakudan Yarou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/loffirej.zip",
+            "label": "Line Of Fire / Bakudan Yarou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/loffirejd.zip",
+            "label": "Line Of Fire / Bakudan Yarou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/loffireu.zip",
+            "label": "Line Of Fire / Bakudan Yarou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/loffireud.zip",
+            "label": "Line Of Fire / Bakudan Yarou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lordgun.zip",
+            "label": "Lord Of Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/luckywld.zip",
+            "label": "Lucky & Wild",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/luckywldj.zip",
+            "label": "Lucky & Wild",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mechatt.zip",
+            "label": "Mechanized Attack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mechattj.zip",
+            "label": "Mechanized Attack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mechattu.zip",
+            "label": "Mechanized Attack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mechattu1.zip",
+            "label": "Mechanized Attack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nycaptor.zip",
+            "label": "N.y. Captor",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/oneshot.zip",
+            "label": "One Shot One Kill",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/opwolf.zip",
+            "label": "Operation Wolf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/opwolf3.zip",
+            "label": "Operation Wolf 3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/opwolf3j.zip",
+            "label": "Operation Wolf 3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/opwolf3u.zip",
+            "label": "Operation Wolf 3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/opwolfa.zip",
+            "label": "Operation Wolf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/opwolfb.zip",
+            "label": "Operation Wolf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/opwolfj.zip",
+            "label": "Operation Wolf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/opwolfjsc.zip",
+            "label": "Operation Wolf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/opwolfu.zip",
+            "label": "Operation Wolf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/othunder.zip",
+            "label": "Operation Thunderbolt",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/othunderj.zip",
+            "label": "Operation Thunderbolt",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/othunderjsc.zip",
+            "label": "Operation Thunderbolt",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/othundero.zip",
+            "label": "Operation Thunderbolt",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/othunderu.zip",
+            "label": "Operation Thunderbolt",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ptblank.zip",
+            "label": "Point Blank",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ptblanka.zip",
+            "label": "Point Blank",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rchase.zip",
+            "label": "Rail Chase",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rchasej.zip",
+            "label": "Rail Chase",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/revx.zip",
+            "label": "Revolution X",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/revxp5.zip",
+            "label": "Revolution X",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sgunner.zip",
+            "label": "Steel Gunner",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sgunner2.zip",
+            "label": "Steel Gunner 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sgunner2j.zip",
+            "label": "Steel Gunner 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sgunnerj.zip",
+            "label": "Steel Gunner",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shoottv.zip",
+            "label": "Must Shoot TV",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shtngmst.zip",
+            "label": "Shooting Master",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spacegun.zip",
+            "label": "Space Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spacegunj.zip",
+            "label": "Space Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spacegunu.zip",
+            "label": "Space Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/targeth.zip",
+            "label": "Target Hits",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/targeth10.zip",
+            "label": "Target Hits",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/targetha.zip",
+            "label": "Target Hits",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/term2.zip",
+            "label": "Terminator 2 - Judgment Day",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/term2la1.zip",
+            "label": "Terminator 2 - Judgment Day",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/term2la2.zip",
+            "label": "Terminator 2 - Judgment Day",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/term2la3.zip",
+            "label": "Terminator 2 - Judgment Day",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/term2lg1.zip",
+            "label": "Terminator 2 - Judgment Day",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/term2pa2.zip",
+            "label": "Terminator 2 - Judgment Day",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/trophyh.zip",
+            "label": "Trophy Hunting - Bear & Moose V1.0",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/turkhunt.zip",
+            "label": "Turkey Hunting Usa V1.0",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/undrfire.zip",
+            "label": "Under Fire",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/undrfirej.zip",
+            "label": "Under Fire",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vsduckhunt.zip",
+            "label": "Vs. Duck Hunt",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vsfreedomforce.zip",
+            "label": "Vs. Freedom Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vshogansalley.zip",
+            "label": "Vs. Hogan's Alley",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/whodunit.zip",
+            "label": "Who Dunit",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/whodunit8.zip",
+            "label": "Who Dunit",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wildplt.zip",
+            "label": "Wild Pilot",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wschamp.zip",
+            "label": "Wing Shooting Championship V2.00",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wschampa.zip",
+            "label": "Wing Shooting Championship V2.00",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wschampb.zip",
+            "label": "Wing Shooting Championship V2.00",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zeropnt.zip",
+            "label": "Zero Point",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zeropnt2.zip",
+            "label": "Zero Point 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zeropnta.zip",
+            "label": "Zero Point",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zeropntj.zip",
+            "label": "Zero Point",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zombraid.zip",
+            "label": "Zombie Raid",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zombraidp.zip",
+            "label": "Zombie Raid",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zombraidpj.zip",
+            "label": "Zombie Raid",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Lightgun.lpl"
+        }
+    ]
+}

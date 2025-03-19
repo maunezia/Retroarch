@@ -131,8 +131,8 @@ class PlaylistCreator:
                 'roms_exten': '.zip',
                 'lista_saida': f'{system_name}.lpl',
                 'config_path': f'{self.config_dir}/{system_name}.ini',
-                'df_path': 'data/roms.pkl',
-                'roms_path': 'data/roms',
+                'df_path': 'data/fbneo.pkl',
+                'roms_path': r'D:\Games\roms\fbneo',
                 'genre': ''
             }
 
@@ -140,6 +140,6 @@ class PlaylistCreator:
                 config.write(configfile)
 
 if __name__ == '__main__':
-    config_path = "data/inis/atari2600.ini"
+    config_path = "data/inis/fbneo.ini"
     creator = PlaylistCreator(info_dir="data/info", config_dir="data/config", playlist_dir="data/playlists")
     creator.cria_lista(config_path)

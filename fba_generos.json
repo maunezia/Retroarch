@@ -1,0 +1,326 @@
+{
+    "action": [
+        "Arcade - Action.lpl",
+        true
+    ],
+    "adult": [
+        "Arcade - Mature.lpl",
+        true
+    ],
+    "adventure": [
+        "Arcade - Action.lpl",
+        true
+    ],
+    "arm wrestling": [
+        "Arcade - Fighting.lpl",
+        true
+    ],
+    "baseball": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "basketball": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "beat'em up": [
+        "Arcade - BeatEmUp.lpl",
+        true
+    ],
+    "boat": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "bowling": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "boxing": [
+        "Arcade - Fighting.lpl",
+        true
+    ],
+    "breakout games": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "climbing": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "compilation": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "cycling": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "diagonal": [
+        "Arcade - Diagonal.lpl",
+        true
+    ],
+    "dodgeball": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "driving": [
+        "Arcade - Driving.lpl",
+        true
+    ],
+    "equalize": [
+        "Arcade - Equalize.lpl",
+        true
+    ],
+    "fall": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "fight": [
+        "Arcade - Fighting.lpl",
+        true
+    ],
+    "fighter scrolling": [
+        "Arcade - BeatEmUp.lpl",
+        true
+    ],
+    "fishing": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "football": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "glide": [
+        "Arcade - Glide.lpl",
+        true
+    ],
+    "go": [
+        "Arcade - Go.lpl",
+        true
+    ],
+    "golf": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "hanafuda": [
+        "Arcade - Hanafuda.lpl",
+        true
+    ],
+    "handball": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "hang-glider": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "hockey": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "horizontal": [
+        "Arcade - STGHori.lpl",
+        true
+    ],
+    "horses race": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "hunting and fishing": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "labyrinth": [
+        "Arcade - Maze.lpl",
+        true
+    ],
+    "lightgun shooter": [
+        "Arcade - Lightgun.lpl",
+        true
+    ],
+    "missile command like": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "motorcycle": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "motorcycle race": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "music and dance": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "music english": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "n": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "pachinko": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "pinball": [
+        "Arcade - Pinball.lpl",
+        true
+    ],
+    "plane": [
+        "Arcade - ShootEmUp.lpl",
+        true
+    ],
+    "platform": [
+        "Arcade - Platform.lpl",
+        true
+    ],
+    "pool": [
+        "Arcade - Pool.lpl",
+        true
+    ],
+    "puzzle-game": [
+        "Arcade - Puzzle-game.lpl",
+        true
+    ],
+    "race": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "race 1st pers": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "race 3rd pers": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "rhythm": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "role playing games": [
+        "Arcade - RPG.lpl",
+        true
+    ],
+    "rugby": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "run and gun": [
+        "Arcade - STGHori.lpl",
+        true
+    ],
+    "run jump": [
+        "Arcade - STGHori.lpl",
+        true
+    ],
+    "run jump scrolling": [
+        "Arcade - STGHori.lpl",
+        true
+    ],
+    "running trails": [
+        "Arcade - STGHori.lpl",
+        true
+    ],
+    "shoot'em up": [
+        "Arcade - STGHori.lpl",
+        true
+    ],
+    "shooter": [
+        "Arcade - STGHori.lpl",
+        true
+    ],
+    "shooter scrolling": [
+        "Arcade - STGHori.lpl",
+        true
+    ],
+    "shooter small": [
+        "Arcade - STGHori.lpl",
+        true
+    ],
+    "simulation": [
+        "Arcade - Simulation.lpl",
+        true
+    ],
+    "skateboard": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "skiing": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "soccer": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "space invaders like": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "sports": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "sports with animals": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "sumo": [
+        "Arcade - Fighting.lpl",
+        true
+    ],
+    "swimming": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "table tennis": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "tennis": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "thinking": [
+        "Arcade - Thinking.lpl",
+        true
+    ],
+    "throw": [
+        "Arcade - Throw.lpl",
+        true
+    ],
+    "various": [
+        "Arcade - Misc.lpl",
+        true
+    ],
+    "vehicle": [
+        "Arcade - Driving.lpl",
+        true
+    ],
+    "versus": [
+        "Arcade - Fighting.lpl",
+        true
+    ],
+    "vertical": [
+        "Arcade - STGVert.lpl",
+        true
+    ],
+    "view": [
+        "Arcade - View.lpl",
+        true
+    ],
+    "volleyball": [
+        "Arcade - Sports.lpl",
+        true
+    ],
+    "wrestling": [
+        "Arcade - Fighting.lpl",
+        true
+    ]
+}

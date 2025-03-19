@@ -1,0 +1,146 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/checkman.zip",
+            "label": "Check Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/checkmanj.zip",
+            "label": "Check Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/moshougi.zip",
+            "label": "Syougi No Tatsujin - Master Of Syougi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacman.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanbl.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanbla.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanblc.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanblv.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanf.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanfm.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanpe.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanso.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmansp.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanug.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pacmanvg.zip",
+            "label": "Pac-man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/patapata.zip",
+            "label": "Pata Pata Panic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pgemeni.zip",
+            "label": "P-gemeni",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Thinking.lpl"
+        }
+    ]
+}

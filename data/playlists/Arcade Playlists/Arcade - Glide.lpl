@@ -1,0 +1,226 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/agress.zip",
+            "label": "Agress - Missile Daisenryaku",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/agressb.zip",
+            "label": "Agress - Missile Daisenryaku",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cottong.zip",
+            "label": "Loco-motion",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cuebrick.zip",
+            "label": "Cue Brick",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cuebrickj.zip",
+            "label": "Cue Brick",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/flyboy.zip",
+            "label": "Fly-boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/flyboyb.zip",
+            "label": "Fly-boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gutangtn.zip",
+            "label": "Loco-motion",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/locoboot.zip",
+            "label": "Loco-motion",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/locomotn.zip",
+            "label": "Loco-motion",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/manybloc.zip",
+            "label": "Many Block",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mosaic.zip",
+            "label": "Mosaic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mosaica.zip",
+            "label": "Mosaic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/msbingo.zip",
+            "label": "Miss Bingo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspuzzle.zip",
+            "label": "Miss Puzzle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspuzzlea.zip",
+            "label": "Miss Puzzle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mspuzzleb.zip",
+            "label": "Miss Puzzle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/orbs.zip",
+            "label": "Orbs",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/penfan.zip",
+            "label": "Penfan Girls - Step1. Mild Mind",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/penfana.zip",
+            "label": "Penfan Girls - Step1. Mild Mind",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pipedrm.zip",
+            "label": "Pipe Dream",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pipedrmj.zip",
+            "label": "Pipe Dream",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pipedrmt.zip",
+            "label": "Pipe Dream",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pipedrmu.zip",
+            "label": "Pipe Dream",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pushmans.zip",
+            "label": "Pushman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzlstar.zip",
+            "label": "Puzzle Star",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzlstara.zip",
+            "label": "Puzzle Star",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Glide.lpl"
+        }
+    ]
+}

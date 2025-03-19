@@ -1,0 +1,778 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/aburner.zip",
+            "label": "After Burner",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aburner2.zip",
+            "label": "After Burner 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aburner2g.zip",
+            "label": "After Burner 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ambush.zip",
+            "label": "Ambush",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ambushh.zip",
+            "label": "Ambush",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ambushj.zip",
+            "label": "Ambush",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ambushv.zip",
+            "label": "Ambush",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aponow.zip",
+            "label": "Rescue",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/arescue.zip",
+            "label": "Air Rescue",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/arescuej.zip",
+            "label": "Air Rescue",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/arescueu.zip",
+            "label": "Air Rescue",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/battlex.zip",
+            "label": "Battle Cross",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bchopper.zip",
+            "label": "Battle Chopper",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blaster.zip",
+            "label": "Blaster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blastero.zip",
+            "label": "Blaster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blazer.zip",
+            "label": "Galaxy Ranger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bshark.zip",
+            "label": "Battle Shark",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bsharkj.zip",
+            "label": "Battle Shark",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bsharkjjs.zip",
+            "label": "Battle Shark",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bsharku.zip",
+            "label": "Battle Shark",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/buckrog.zip",
+            "label": "Buck Rogers: Planet of Zoom",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/buckrogn.zip",
+            "label": "Buck Rogers: Planet of Zoom",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/buckrogn2.zip",
+            "label": "Buck Rogers: Planet of Zoom",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cobracomja.zip",
+            "label": "Cobra Command (Data East)",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dogfgt.zip",
+            "label": "Acrobatic Dog-fight",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dogfgtj.zip",
+            "label": "Acrobatic Dog-fight",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dogfgtu.zip",
+            "label": "Acrobatic Dog-fight",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dogfight.zip",
+            "label": "Dog Fight",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dualaslt.zip",
+            "label": "Liberation",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/esb.zip",
+            "label": "Empire Strikes Back, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gforce2.zip",
+            "label": "Galaxy Force 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gforce2j.zip",
+            "label": "Galaxy Force 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gforce2ja.zip",
+            "label": "Galaxy Force 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gforce2sd.zip",
+            "label": "Galaxy Force 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gloc.zip",
+            "label": "G-loc Air Battle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/glocr360.zip",
+            "label": "G-loc Air Battle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/glocr360j.zip",
+            "label": "G-loc Air Battle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/glocu.zip",
+            "label": "G-loc Air Battle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gyruss.zip",
+            "label": "Gyruss",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gyrussb.zip",
+            "label": "Gyruss",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gyrussce.zip",
+            "label": "Gyruss",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/liberate.zip",
+            "label": "Liberation",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lifefrce.zip",
+            "label": "Salamander",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lifefrcej.zip",
+            "label": "Salamander",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lockon.zip",
+            "label": "Lock-on",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lockonc.zip",
+            "label": "Lock-on",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/marineb.zip",
+            "label": "Marine Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/metlhawk.zip",
+            "label": "Metal Hawk",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/metlhawkj.zip",
+            "label": "Metal Hawk",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mirax.zip",
+            "label": "Mirax",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/miraxa.zip",
+            "label": "Mirax",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/moonwar.zip",
+            "label": "Moonwar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/moonwara.zip",
+            "label": "Moonwar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/moonwarp.zip",
+            "label": "Moon War",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrheli.zip",
+            "label": "Battle Chopper",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nightstr.zip",
+            "label": "Night Striker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nightstrj.zip",
+            "label": "Night Striker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nightstru.zip",
+            "label": "Night Striker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rescue.zip",
+            "label": "Rescue",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/salamand.zip",
+            "label": "Salamander",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/salamandj.zip",
+            "label": "Salamander",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/scotrsht.zip",
+            "label": "Scooter Shooter",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sectionz.zip",
+            "label": "Section Z",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sectionza.zip",
+            "label": "Section Z",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sfx.zip",
+            "label": "Sf-x",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sharrier.zip",
+            "label": "Space Harrier",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sharrier1.zip",
+            "label": "Space Harrier",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/skydest.zip",
+            "label": "Sky Destroyer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/skyskipr.zip",
+            "label": "Sky Skipper",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spaceskr.zip",
+            "label": "Space Seeker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/strkfgtr.zip",
+            "label": "Strike Fighter",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/strkfgtrj.zip",
+            "label": "Strike Fighter",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/strkforc.zip",
+            "label": "Strike Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/subroc3d.zip",
+            "label": "Subroc-3d",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tceptor.zip",
+            "label": "Thunder Ceptor",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tceptor2.zip",
+            "label": "Thunder Ceptor",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/terraf.zip",
+            "label": "Terra Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/terrafb.zip",
+            "label": "Terra Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/terrafj.zip",
+            "label": "Terra Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/terrafjb.zip",
+            "label": "Terra Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/terrafu.zip",
+            "label": "Terra Force",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thndrbld.zip",
+            "label": "Thunder Blade",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thndrbld1.zip",
+            "label": "Thunder Blade",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thndrbldd.zip",
+            "label": "Thunder Blade",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/timefgtr.zip",
+            "label": "Time Fighter",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tubep.zip",
+            "label": "Tube Panic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tubepb.zip",
+            "label": "Tube Panic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vanguard.zip",
+            "label": "Vanguard",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vanguardc.zip",
+            "label": "Vanguard",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vanguardg.zip",
+            "label": "Vanguard",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vanguardj.zip",
+            "label": "Vanguard",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/venus.zip",
+            "label": "Gyruss",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vsraidbbay.zip",
+            "label": "Vs. Raid On Bungeling Bay",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vsstarluster.zip",
+            "label": "Vs. Star Luster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vstopgun.zip",
+            "label": "Vs. Top Gun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zoom909.zip",
+            "label": "Buck Rogers: Planet of Zoom",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - ShootEmUp.lpl"
+        }
+    ]
+}

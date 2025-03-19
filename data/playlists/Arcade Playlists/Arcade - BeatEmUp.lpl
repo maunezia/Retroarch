@@ -1,0 +1,1658 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/akumajou.zip",
+            "label": "Haunted Castle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/akumajoun.zip",
+            "label": "Haunted Castle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeast.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeast2.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeast4.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeast5.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeast5d.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeast6.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeastj.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeastj1.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeastj3.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/altbeastj3d.zip",
+            "label": "Altered Beast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/astyanax.zip",
+            "label": "Astyanax, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/astyanaxa.zip",
+            "label": "Astyanax, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/athena.zip",
+            "label": "Athena",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/athenab.zip",
+            "label": "Athena",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/avspirit.zip",
+            "label": "Avenging Spirit",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/baddudes.zip",
+            "label": "Bad Dudes Vs. Dragonninja",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/batman.zip",
+            "label": "Batman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/berabohm.zip",
+            "label": "Beraboh Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/berabohmb.zip",
+            "label": "Beraboh Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bigkarnk.zip",
+            "label": "Big Karnak",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bjourney.zip",
+            "label": "Blue's Journey",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bjourneyh.zip",
+            "label": "Blue's Journey",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blkdrgon.zip",
+            "label": "Black Tiger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blkdrgonb.zip",
+            "label": "Black Tiger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blkpnthr.zip",
+            "label": "Black Panther",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blktiger.zip",
+            "label": "Black Tiger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blktigera.zip",
+            "label": "Black Tiger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blktigerb1.zip",
+            "label": "Black Tiger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blktigerb2.zip",
+            "label": "Black Tiger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blktigerb3.zip",
+            "label": "Black Tiger",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bombkick.zip",
+            "label": "Bomb Kick",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bombkicka.zip",
+            "label": "Bomb Kick",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadash.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashf.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashg.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashgo.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashi.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashj.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashj1.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashjo.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashp.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashs.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashu.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cadashu1.zip",
+            "label": "Cadash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/candance.zip",
+            "label": "Osman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cbuster.zip",
+            "label": "Two Crude",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cbusterj.zip",
+            "label": "Two Crude",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cbusterw.zip",
+            "label": "Two Crude",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/chikij.zip",
+            "label": "Mega Twins",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/csilver.zip",
+            "label": "Captain Silver",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/csilverj.zip",
+            "label": "Captain Silver",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/csilverja.zip",
+            "label": "Captain Silver",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/daimakai.zip",
+            "label": "Ghouls'n Ghosts",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/daimakaib.zip",
+            "label": "Ghouls'n Ghosts",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/daimakair.zip",
+            "label": "Ghouls'n Ghosts",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/darkmist.zip",
+            "label": "Lost Castle In Darkmist, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ddragon.zip",
+            "label": "Double Dragon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ddragonu.zip",
+            "label": "Double Dragon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ddragonua.zip",
+            "label": "Double Dragon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ddragonub.zip",
+            "label": "Double Dragon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dkgensan.zip",
+            "label": "Hammerin' Harry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dkgensanm72.zip",
+            "label": "Hammerin' Harry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dkgensanm82.zip",
+            "label": "Hammerin' Harry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgnbstr.zip",
+            "label": "Dragon Buster",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgninja.zip",
+            "label": "Bad Dudes Vs. Dragonninja",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgninjab.zip",
+            "label": "Bad Dudes Vs. Dragonninja",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgninjab2.zip",
+            "label": "Bad Dudes Vs. Dragonninja",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dynagear.zip",
+            "label": "Dyna Gear",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eightman.zip",
+            "label": "Eight Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/exprraid.zip",
+            "label": "Express Raider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/exprraidi.zip",
+            "label": "Express Raider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/exprraidu.zip",
+            "label": "Express Raider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/galivan.zip",
+            "label": "Cosmo Police Galivan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/galivan2.zip",
+            "label": "Cosmo Police Galivan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/galivan3.zip",
+            "label": "Cosmo Police Galivan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ganryu.zip",
+            "label": "Ganryu",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/genpeitd.zip",
+            "label": "Genpei Toumaden",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ghouls.zip",
+            "label": "Ghouls'n Ghosts",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ghoulsu.zip",
+            "label": "Ghouls'n Ghosts",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ginganin.zip",
+            "label": "Ginga Ninkyouden",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ginganina.zip",
+            "label": "Ginga Ninkyouden",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hcastle.zip",
+            "label": "Haunted Castle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hcastlee.zip",
+            "label": "Haunted Castle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hcastlek.zip",
+            "label": "Haunted Castle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hharry.zip",
+            "label": "Hammerin' Harry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hharryb.zip",
+            "label": "Hammerin' Harry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hharryu.zip",
+            "label": "Hammerin' Harry",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/iganinju.zip",
+            "label": "Ninja Kazan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kazan.zip",
+            "label": "Ninja Kazan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kidniki.zip",
+            "label": "Kid Niki - Radical Ninja",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kidnikiu.zip",
+            "label": "Kid Niki - Radical Ninja",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kurikint.zip",
+            "label": "Kuri Kinton",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kurikinta.zip",
+            "label": "Kuri Kinton",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kurikintj.zip",
+            "label": "Kuri Kinton",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kurikintu.zip",
+            "label": "Kuri Kinton",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kurikintw.zip",
+            "label": "Kuri Kinton",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ladymstr.zip",
+            "label": "Lady Master Of Kung Fu",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ladymstr2.zip",
+            "label": "Lady Master Of Kung Fu",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/liquidk.zip",
+            "label": "Liquid Kids",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/liquidku.zip",
+            "label": "Liquid Kids",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lithero.zip",
+            "label": "Kid Niki - Radical Ninja",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lordofk.zip",
+            "label": "Astyanax, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/marvland.zip",
+            "label": "Marvel Land",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/marvlandup.zip",
+            "label": "Marvel Land",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mia.zip",
+            "label": "M.i.a. - Missing In Action",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mia2.zip",
+            "label": "M.i.a. - Missing In Action",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/miaj.zip",
+            "label": "M.i.a. - Missing In Action",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mizubaku.zip",
+            "label": "Liquid Kids",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/monkelf.zip",
+            "label": "Avenging Spirit",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrgoemon.zip",
+            "label": "Mr. Goemon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/msword.zip",
+            "label": "Magic Sword - Heroic Fantasy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mswordj.zip",
+            "label": "Magic Sword - Heroic Fantasy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mswordr1.zip",
+            "label": "Magic Sword - Heroic Fantasy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mswordu.zip",
+            "label": "Magic Sword - Heroic Fantasy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mtwins.zip",
+            "label": "Mega Twins",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mtwinsb.zip",
+            "label": "Mega Twins",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nastar.zip",
+            "label": "Nastar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nastarw.zip",
+            "label": "Nastar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nemo.zip",
+            "label": "Nemo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nemoj.zip",
+            "label": "Nemo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nemor1.zip",
+            "label": "Nemo",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nunchaku.zip",
+            "label": "Lady Master Of Kung Fu",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/osman.zip",
+            "label": "Osman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/phantasm.zip",
+            "label": "Avenging Spirit",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/psychic5.zip",
+            "label": "Psychic 5",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/psychic5j.zip",
+            "label": "Psychic 5",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/psychos.zip",
+            "label": "Psycho Soldier",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/psychosj.zip",
+            "label": "Psycho Soldier",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pyros.zip",
+            "label": "Wardner",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastan.zip",
+            "label": "Rastan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastana.zip",
+            "label": "Rastan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastanb.zip",
+            "label": "Rastan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastanu.zip",
+            "label": "Rastan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastanua.zip",
+            "label": "Rastan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastanub.zip",
+            "label": "Rastan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastsag2.zip",
+            "label": "Nastar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastsaga.zip",
+            "label": "Rastan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastsagaa.zip",
+            "label": "Rastan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rastsagab.zip",
+            "label": "Rastan",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rygar.zip",
+            "label": "Rygar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rygar2.zip",
+            "label": "Rygar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rygar3.zip",
+            "label": "Rygar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rygarb.zip",
+            "label": "Rygar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rygarj.zip",
+            "label": "Rygar",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sathena.zip",
+            "label": "Athena",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shdancer.zip",
+            "label": "Shadow Dancer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shdancer1.zip",
+            "label": "Shadow Dancer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shdancerj.zip",
+            "label": "Shadow Dancer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinfz.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobi.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobi1.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobi1d.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobi2.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobi2d.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobi3.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobi4.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobi5.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobi6.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinoblb.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shinobls.zip",
+            "label": "Shinobi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spidman.zip",
+            "label": "Spider-Man: The Videogame",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spidmanj.zip",
+            "label": "Spider-Man: The Videogame",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spidmanu.zip",
+            "label": "Spider-Man: The Videogame",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/strider.zip",
+            "label": "Strider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/striderj.zip",
+            "label": "Strider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/striderjr.zip",
+            "label": "Strider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/striderua.zip",
+            "label": "Strider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/strideruc.zip",
+            "label": "Strider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thundfox.zip",
+            "label": "Thunder Fox",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thundfoxj.zip",
+            "label": "Thunder Fox",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/thundfoxu.zip",
+            "label": "Thunder Fox",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tigeroad.zip",
+            "label": "Tiger Road",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tigeroadb.zip",
+            "label": "Tiger Road",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tigeroadb2.zip",
+            "label": "Tiger Road",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tigeroadu.zip",
+            "label": "Tiger Road",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tknight.zip",
+            "label": "Wild Fang",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tophuntr.zip",
+            "label": "Top Hunter",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tophuntrh.zip",
+            "label": "Top Hunter",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/toramich.zip",
+            "label": "Tiger Road",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/triothep.zip",
+            "label": "Trio The Punch - Never Forget Me...",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/triothepj.zip",
+            "label": "Trio The Punch - Never Forget Me...",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/twocrude.zip",
+            "label": "Two Crude",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/twocrudea.zip",
+            "label": "Two Crude",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vigilant.zip",
+            "label": "Vigilante",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vigilanta.zip",
+            "label": "Vigilante",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vigilantb.zip",
+            "label": "Vigilante",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vigilantbl.zip",
+            "label": "Vigilante",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vigilantc.zip",
+            "label": "Vigilante",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vigilantd.zip",
+            "label": "Vigilante",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vigilantg.zip",
+            "label": "Vigilante",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vigilanto.zip",
+            "label": "Vigilante",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vscastlevania.zip",
+            "label": "Vs. Castlevania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wardner.zip",
+            "label": "Wardner",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wardnerb.zip",
+            "label": "Wardner",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wardnerj.zip",
+            "label": "Wardner",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wexpress.zip",
+            "label": "Express Raider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wexpressb1.zip",
+            "label": "Express Raider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wexpressb2.zip",
+            "label": "Express Raider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wexpressb3.zip",
+            "label": "Express Raider",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wildfang.zip",
+            "label": "Wild Fang",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wildfangs.zip",
+            "label": "Wild Fang",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wizt.zip",
+            "label": "Wiz",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wizta.zip",
+            "label": "Wiz",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/yanchamr.zip",
+            "label": "Kid Niki - Radical Ninja",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - BeatEmUp.lpl"
+        }
+    ]
+}

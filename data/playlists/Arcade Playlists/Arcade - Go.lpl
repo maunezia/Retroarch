@@ -1,0 +1,674 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/birdtry.zip",
+            "label": "Birdie Try",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/birdtrya.zip",
+            "label": "Birdie Try",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/compgolf.zip",
+            "label": "Competition Golf Final Round",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/compgolfo.zip",
+            "label": "Competition Golf Final Round",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/countryc.zip",
+            "label": "Country Club",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cprogolf.zip",
+            "label": "Tournament Pro Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cprogolf18.zip",
+            "label": "Tournament Pro Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/cprogolfj.zip",
+            "label": "Tournament Pro Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dcclub.zip",
+            "label": "Dynamic Country Club",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dcclubfd.zip",
+            "label": "Dynamic Country Club",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dcclubj.zip",
+            "label": "Dynamic Country Club",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eaglshot.zip",
+            "label": "Eagle Shot Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/eaglshotj.zip",
+            "label": "Eagle Shot Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fitegolf.zip",
+            "label": "Lee Trevino's Fighting Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fitegolfu.zip",
+            "label": "Lee Trevino's Fighting Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/fitegolfua.zip",
+            "label": "Lee Trevino's Fighting Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/futspy.zip",
+            "label": "Future Spy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt2k.zip",
+            "label": "Golden Tee 2k",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt2kp100.zip",
+            "label": "Golden Tee 2k",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt2ks100.zip",
+            "label": "Golden Tee 2k",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt2kt500.zip",
+            "label": "Golden Tee 2k",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3d.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dl19.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dl191.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dl192.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3ds192.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dt211.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dt231.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dv14.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dv15.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dv16.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dv17.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt3dv18.zip",
+            "label": "Golden Tee 3d Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt97.zip",
+            "label": "Golden Tee '97",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt97s121.zip",
+            "label": "Golden Tee '97",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt97t240.zip",
+            "label": "Golden Tee '97",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt97t243.zip",
+            "label": "Golden Tee '97",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt97v120.zip",
+            "label": "Golden Tee '97",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt97v121.zip",
+            "label": "Golden Tee '97",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt97v122.zip",
+            "label": "Golden Tee '97",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt98.zip",
+            "label": "Golden Tee '98",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt98s100.zip",
+            "label": "Golden Tee '98",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt98t302.zip",
+            "label": "Golden Tee '98",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt98t303.zip",
+            "label": "Golden Tee '98",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt98v100.zip",
+            "label": "Golden Tee '98",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt99.zip",
+            "label": "Golden Tee '99",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt99s100.zip",
+            "label": "Golden Tee '99",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gt99t400.zip",
+            "label": "Golden Tee '99",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gtclassc.zip",
+            "label": "Golden Tee Classic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gtclasscp.zip",
+            "label": "Golden Tee Classic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gtclasscs.zip",
+            "label": "Golden Tee Classic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gtdiamond.zip",
+            "label": "Golden Tee '98",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gtroyal.zip",
+            "label": "Golden Tee '99",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gtsupreme.zip",
+            "label": "Golden Tee 2k",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/heuksun.zip",
+            "label": "Heuk Sun Baek Sa",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/jedi.zip",
+            "label": "Return Of The Jedi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/madcrash.zip",
+            "label": "Mad Crasher",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/madcrush.zip",
+            "label": "Mad Crasher",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/majtitl2.zip",
+            "label": "Major Title 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/majtitl2a.zip",
+            "label": "Major Title 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/majtitl2b.zip",
+            "label": "Major Title 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/majtitl2j.zip",
+            "label": "Major Title 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/majtitle.zip",
+            "label": "Major Title",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/majtitlej.zip",
+            "label": "Major Title",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/progolf.zip",
+            "label": "18 Holes Pro Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sgmast.zip",
+            "label": "Super Masters Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sgmastc.zip",
+            "label": "Super Masters Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sgmastj.zip",
+            "label": "Super Masters Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/skingame.zip",
+            "label": "Major Title 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/skingame2.zip",
+            "label": "Major Title 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/szaxxon.zip",
+            "label": "Super Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tpgolf.zip",
+            "label": "Top Player's Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/turfmast.zip",
+            "label": "Neo Turf Masters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/usclssic.zip",
+            "label": "U.s. Classic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/viewpoin.zip",
+            "label": "Viewpoint",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/viewpoinp.zip",
+            "label": "Viewpoint",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vssmgolf.zip",
+            "label": "Vs. Stroke & Match Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vssmgolfla.zip",
+            "label": "Vs. Stroke & Match Golf",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxon.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxon2.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxon3.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxonb.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxonj.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Go.lpl"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/aceattac.zip",
+            "label": "Ace Attacker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/aceattaca.zip",
+            "label": "Ace Attacker",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pspikes.zip",
+            "label": "Power Spikes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pspikes2.zip",
+            "label": "Power Spikes 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pspikesk.zip",
+            "label": "Power Spikes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pspikesu.zip",
+            "label": "Power Spikes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/svolley.zip",
+            "label": "Super Volleyball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/svolleyk.zip",
+            "label": "Super Volleyball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/svolleyu.zip",
+            "label": "Super Volleyball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/svolly91.zip",
+            "label": "Power Spikes",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/touchgo.zip",
+            "label": "Touch & Go",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/touchgoe.zip",
+            "label": "Touch & Go",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/touchgok.zip",
+            "label": "Touch & Go",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/touchgon.zip",
+            "label": "Touch & Go",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vball.zip",
+            "label": "U.s. Championship V'ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vball2pj.zip",
+            "label": "U.s. Championship V'ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vball2pjb.zip",
+            "label": "U.s. Championship V'ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/vballb.zip",
+            "label": "U.s. Championship V'ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wbeachvl.zip",
+            "label": "World Beach Volley",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wbeachvl2.zip",
+            "label": "World Beach Volley",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wbeachvl3.zip",
+            "label": "World Beach Volley",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wcvol95.zip",
+            "label": "World Cup Volley '95",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wcvol95j.zip",
+            "label": "World Cup Volley '95",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wcvol95x.zip",
+            "label": "World Cup Volley '95",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Sports.lpl"
+        }
+    ]
+}

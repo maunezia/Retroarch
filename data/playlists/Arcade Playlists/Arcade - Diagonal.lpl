@@ -1,0 +1,106 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/futspy.zip",
+            "label": "Future Spy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/jedi.zip",
+            "label": "Return Of The Jedi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/madcrash.zip",
+            "label": "Mad Crasher",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/madcrush.zip",
+            "label": "Mad Crasher",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/szaxxon.zip",
+            "label": "Super Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/viewpoin.zip",
+            "label": "Viewpoint",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/viewpoinp.zip",
+            "label": "Viewpoint",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxon.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxon2.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxon3.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxonb.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/zaxxonj.zip",
+            "label": "Zaxxon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Diagonal.lpl"
+        }
+    ]
+}

@@ -1,0 +1,434 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/appoooh.zip",
+            "label": "Appoooh",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/armchmp2.zip",
+            "label": "Arm Champs II v2.6",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/armchmp2o.zip",
+            "label": "Arm Champs II v2.6",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/armchmp2o2.zip",
+            "label": "Arm Champs II v2.6",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/armwrest.zip",
+            "label": "Arm Wrestling",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bigprowr.zip",
+            "label": "Big Pro Wrestling!, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blzntrnd.zip",
+            "label": "Blazing Tornado",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bodyslam.zip",
+            "label": "Body Slam",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/champwr.zip",
+            "label": "Champion Wrestler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/champwrj.zip",
+            "label": "Champion Wrestler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/champwru.zip",
+            "label": "Champion Wrestler",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dumpmtmt.zip",
+            "label": "Body Slam",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/excthour.zip",
+            "label": "Mat Mania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mainevt.zip",
+            "label": "Main Event, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mainevt2p.zip",
+            "label": "Main Event, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mainevto.zip",
+            "label": "Main Event, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/maniach.zip",
+            "label": "Mania Challenge",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/maniach2.zip",
+            "label": "Mania Challenge",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/matmania.zip",
+            "label": "Mat Mania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mbomberj.zip",
+            "label": "Saturday Night Slam Masters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mbombrd.zip",
+            "label": "Muscle Bomber Duo - Ultimate Team Battle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mbombrdj.zip",
+            "label": "Muscle Bomber Duo - Ultimate Team Battle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ringohja.zip",
+            "label": "Main Event, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ringrage.zip",
+            "label": "Ring Rage",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ringragej.zip",
+            "label": "Ring Rage",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ringrageu.zip",
+            "label": "Ring Rage",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/robowres.zip",
+            "label": "Robo Wres 2001",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/slammast.zip",
+            "label": "Saturday Night Slam Masters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/slammastu.zip",
+            "label": "Saturday Night Slam Masters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/slampic.zip",
+            "label": "Saturday Night Slam Masters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/slampic2.zip",
+            "label": "Saturday Night Slam Masters",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/tagteam.zip",
+            "label": "Big Pro Wrestling!, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wrestwar.zip",
+            "label": "Wrestle War",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wrestwar1.zip",
+            "label": "Wrestle War",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wrestwar1d.zip",
+            "label": "Wrestle War",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wrestwar2.zip",
+            "label": "Wrestle War",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wrestwar2d.zip",
+            "label": "Wrestle War",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfmania.zip",
+            "label": "WWF: Wrestlemania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfmaniab.zip",
+            "label": "WWF: Wrestlemania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfmaniac.zip",
+            "label": "WWF: Wrestlemania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfmaniap.zip",
+            "label": "WWF: Wrestlemania",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfsstar.zip",
+            "label": "Wwf Superstars",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfsstarb.zip",
+            "label": "Wwf Superstars",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfsstarj.zip",
+            "label": "Wwf Superstars",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfsstaru4.zip",
+            "label": "Wwf Superstars",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfsstaru6.zip",
+            "label": "Wwf Superstars",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfsstaru7.zip",
+            "label": "Wwf Superstars",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfwfest.zip",
+            "label": "Wwf Wrestlefest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfwfestj.zip",
+            "label": "Wwf Wrestlefest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfwfestk.zip",
+            "label": "Wwf Wrestlefest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfwfestu.zip",
+            "label": "Wwf Wrestlefest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfwfestu1.zip",
+            "label": "Wwf Wrestlefest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/wwfwfestub.zip",
+            "label": "Wwf Wrestlefest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Fighting.lpl"
+        }
+    ]
+}

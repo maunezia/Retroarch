@@ -1,0 +1,458 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/3kokushi.zip",
+            "label": "Sankokushi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/3x3puzzl.zip",
+            "label": "3x3 Puzzle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/3x3puzzla.zip",
+            "label": "3x3 Puzzle",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/4enraya.zip",
+            "label": "4 En Raya",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/4enrayaa.zip",
+            "label": "4 En Raya",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/bikkuric.zip",
+            "label": "Bikkuri Card",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/casanova.zip",
+            "label": "Casanova",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/choko.zip",
+            "label": "Janpai Puzzle Choukou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/daitorid.zip",
+            "label": "Daitoride",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/daitorida.zip",
+            "label": "Daitoride",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dblpoint.zip",
+            "label": "Double Point",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dblpointd.zip",
+            "label": "Double Point",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw2.zip",
+            "label": "Dragon World II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw2100c.zip",
+            "label": "Dragon World II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw2100hk.zip",
+            "label": "Dragon World II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw2100j.zip",
+            "label": "Dragon World II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw2100x.zip",
+            "label": "Dragon World II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw2101c.zip",
+            "label": "Dragon World II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw3.zip",
+            "label": "Dragon World 3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw3100.zip",
+            "label": "Dragon World 3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw3103.zip",
+            "label": "Dragon World 3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/drgw3105.zip",
+            "label": "Dragon World 3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dwex.zip",
+            "label": "Dragon World 3 Ex",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dwex101cn.zip",
+            "label": "Dragon World 3 Ex",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hasamu.zip",
+            "label": "Hasamu",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/honeydol.zip",
+            "label": "Honey Dolls",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lastfort.zip",
+            "label": "Last Fortress - Toride",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lastforte.zip",
+            "label": "Last Fortress - Toride",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lastfortea.zip",
+            "label": "Last Fortress - Toride",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lastfortg.zip",
+            "label": "Last Fortress - Toride",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lastfortj.zip",
+            "label": "Last Fortress - Toride",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lastfortk.zip",
+            "label": "Last Fortress - Toride",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mangchi.zip",
+            "label": "Mang-chi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/matchit2.zip",
+            "label": "Match It II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mushitam.zip",
+            "label": "Puzzle! Mushihime-tama",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mushitama.zip",
+            "label": "Puzzle! Mushihime-tama",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/onetwo.zip",
+            "label": "One + Two",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/onetwoe.zip",
+            "label": "One + Two",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pairlove.zip",
+            "label": "Pairs Love",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pairsred.zip",
+            "label": "Pairs Redemption",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzlstar.zip",
+            "label": "Puzzle Star",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzlstara.zip",
+            "label": "Puzzle Star",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shangha3.zip",
+            "label": "Shanghai III",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shangha3j.zip",
+            "label": "Shanghai III",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shangha3u.zip",
+            "label": "Shanghai III",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shangha3up.zip",
+            "label": "Shanghai III",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/shisen2.zip",
+            "label": "Match It II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sshangha.zip",
+            "label": "Super Shanghai Dragon's Eye",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sshanghab.zip",
+            "label": "Super Shanghai Dragon's Eye",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sshanghaj.zip",
+            "label": "Super Shanghai Dragon's Eye",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sshanghak.zip",
+            "label": "Super Shanghai Dragon's Eye",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/stealsee.zip",
+            "label": "Steal See",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/toride2g.zip",
+            "label": "Toride II Adauchi Gaiden",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/toride2gg.zip",
+            "label": "Toride II Adauchi Gaiden",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/toride2gk.zip",
+            "label": "Toride II Adauchi Gaiden",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/toride2j.zip",
+            "label": "Toride II Adauchi Gaiden",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Equalize.lpl"
+        }
+    ]
+}

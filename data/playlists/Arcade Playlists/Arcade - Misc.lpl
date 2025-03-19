@@ -1,0 +1,922 @@
+{
+    "default_core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+    "default_core_name": "Arcade (FinalBurn Neo)",
+    "label_display_mode": 3,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "D:/Games/roms/fbneo/alphaone.zip",
+            "label": "Major Havoc",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/alphaonea.zip",
+            "label": "Major Havoc",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/blockhl.zip",
+            "label": "Block Hole",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/boonggab.zip",
+            "label": "Boong-ga Boong-ga",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/boxyboy.zip",
+            "label": "Boxy Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/boxyboya.zip",
+            "label": "Boxy Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/croquis.zip",
+            "label": "Logic Pro",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/crospang.zip",
+            "label": "Cross Pang",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dharma.zip",
+            "label": "Dharma Doujou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dharmag.zip",
+            "label": "Dharma Doujou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dharmaj.zip",
+            "label": "Dharma Doujou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dharmak.zip",
+            "label": "Dharma Doujou",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/domino.zip",
+            "label": "Domino Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dotron.zip",
+            "label": "Discs Of Tron",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dotrona.zip",
+            "label": "Discs Of Tron",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/dotrone.zip",
+            "label": "Discs Of Tron",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gangonta.zip",
+            "label": "Party Time: Gonta the Diver II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gfire2.zip",
+            "label": "Golden Fire II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gorodki.zip",
+            "label": "Gorodki",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/guiness.zip",
+            "label": "Strength & Skill",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/gutsn.zip",
+            "label": "Guts'n",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hidctch2.zip",
+            "label": "Hidden Catch 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hidctch2a.zip",
+            "label": "Hidden Catch 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hidctch3.zip",
+            "label": "Hidden Catch 3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hidnc2k.zip",
+            "label": "Hidden Catch 2000",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hidnctch.zip",
+            "label": "Hidden Catch",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hidnctcha.zip",
+            "label": "Hidden Catch",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hotmind.zip",
+            "label": "Hot Mind",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hotminda.zip",
+            "label": "Hot Mind",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/hotsmash.zip",
+            "label": "Vs. Hot Smash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kaitei.zip",
+            "label": "Kaitei Takara Sagashi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/kaitein.zip",
+            "label": "Kaitei Takara Sagashi",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/korokoro.zip",
+            "label": "Koro Koro Quest",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ladykill.zip",
+            "label": "Lady Killer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lasso.zip",
+            "label": "Lasso",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lemmings.zip",
+            "label": "Lemmings",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/llander.zip",
+            "label": "Lunar Lander",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/llander1.zip",
+            "label": "Lunar Lander",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/logicpr2.zip",
+            "label": "Logic Pro 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/logicpro.zip",
+            "label": "Logic Pro",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/lotlot.zip",
+            "label": "Lot Lot",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/magerror.zip",
+            "label": "Magical Error Wo Sagase",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/metlclsh.zip",
+            "label": "Metal Clash",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mhavoc.zip",
+            "label": "Major Havoc",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mhavoc2.zip",
+            "label": "Major Havoc",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mhavocp.zip",
+            "label": "Major Havoc",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mhavocrv.zip",
+            "label": "Major Havoc",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mmonkey.zip",
+            "label": "Minky Monkey",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mmonkeyj.zip",
+            "label": "Minky Monkey",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/moegonta.zip",
+            "label": "Lady Killer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mole.zip",
+            "label": "Mole Attack",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/motos.zip",
+            "label": "Motos",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/mrdig.zip",
+            "label": "Mr. Dig",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/ngfrog.zip",
+            "label": "Frog Feast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/nhidctch.zip",
+            "label": "New Hidden Catch",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/oisipuzl.zip",
+            "label": "Oishii Puzzle Ha Irimasenka",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pgmfrog.zip",
+            "label": "Frog Feast",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/photoy2k.zip",
+            "label": "Photo Y2k",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/photoy2k102j.zip",
+            "label": "Photo Y2k",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/photoy2k103j.zip",
+            "label": "Photo Y2k",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/photoy2k104.zip",
+            "label": "Photo Y2k",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/phozon.zip",
+            "label": "Phozon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/phozons.zip",
+            "label": "Phozon",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pkunwar.zip",
+            "label": "Penguin-kun Wars",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pkunwarj.zip",
+            "label": "Penguin-kun Wars",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/prtytime.zip",
+            "label": "Party Time: Gonta the Diver II",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pururun.zip",
+            "label": "Pururun",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pushman.zip",
+            "label": "Pushman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pushmana.zip",
+            "label": "Pushman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pushmant.zip",
+            "label": "Pushman",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzznic.zip",
+            "label": "Puzznic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzznicb.zip",
+            "label": "Puzznic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzznicba.zip",
+            "label": "Puzznic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzznici.zip",
+            "label": "Puzznic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzznicj.zip",
+            "label": "Puzznic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/puzznicu.zip",
+            "label": "Puzznic",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/py2k2.zip",
+            "label": "Photo Y2k 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/py2k2100.zip",
+            "label": "Photo Y2k 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pzlbreak.zip",
+            "label": "Puzzle Break",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/pzlbreaka.zip",
+            "label": "Puzzle Break",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/quarth.zip",
+            "label": "Block Hole",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rockn.zip",
+            "label": "Rock'n Tread",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rockn2.zip",
+            "label": "Rock'n Tread 2",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rockn3.zip",
+            "label": "Rock'n 3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rockn4.zip",
+            "label": "Rock'n 4",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/rockna.zip",
+            "label": "Rock'n Tread",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sbm.zip",
+            "label": "Sonic Blast Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/sbmj.zip",
+            "label": "Sonic Blast Man",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/scudhamm.zip",
+            "label": "Scud Hammer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/searchey.zip",
+            "label": "Search Eye",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/searcheya.zip",
+            "label": "Search Eye",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/searchp2.zip",
+            "label": "Search Eye Plus V2.0",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/secretag.zip",
+            "label": "Sly Spy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/secretagj.zip",
+            "label": "Sly Spy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/skylancr.zip",
+            "label": "Sky Lancer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/skylancre.zip",
+            "label": "Sky Lancer",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/slyspy.zip",
+            "label": "Sly Spy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/slyspy2.zip",
+            "label": "Sly Spy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/slyspy3.zip",
+            "label": "Sly Spy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/soukobdx.zip",
+            "label": "Boxy Boy",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/spdball.zip",
+            "label": "Speed Ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/speedbal.zip",
+            "label": "Speed Ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/speedbala.zip",
+            "label": "Speed Ball",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/startrek.zip",
+            "label": "Star Trek",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/strnskil.zip",
+            "label": "Strength & Skill",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/superspy.zip",
+            "label": "Super Spy, The",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/superten.zip",
+            "label": "Super Ten V8.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/triplfun.zip",
+            "label": "Oishii Puzzle Ha Irimasenka",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/usg82.zip",
+            "label": "Super Ten V8.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/usg83x.zip",
+            "label": "Super Ten V8.3",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/warpwarp.zip",
+            "label": "Warp & Warp",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/warpwarpr.zip",
+            "label": "Warp & Warp",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/warpwarpr2.zip",
+            "label": "Warp & Warp",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        },
+        {
+            "path": "D:/Games/roms/fbneo/xorworld.zip",
+            "label": "Xor World",
+            "core_path": "/dev_hdd0/game/RETROARCH/USRDIR/cores/fbneo_libretro_ps3.SELF",
+            "core_name": "Arcade (FinalBurn Neo)",
+            "crc32": "DETECT",
+            "db_name": "Arcade - Misc.lpl"
+        }
+    ]
+}
