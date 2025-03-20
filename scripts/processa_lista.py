@@ -1,5 +1,5 @@
 import os
-from ..scripts.my_ftp_man import FTPManager
+from .my_ftp_man import FTPManager
 import configparser
 import pickle
 
