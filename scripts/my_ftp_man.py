@@ -205,7 +205,6 @@ class FTPManager:
 
 
 if __name__ == '__main__':
-
     def exemplo1():
         parser = argparse.ArgumentParser(description='FTP Uploader/Downloader')
         parser.add_argument('action', choices=['upload', 'download'], help='Ação a realizar')

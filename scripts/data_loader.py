@@ -6,7 +6,7 @@ class GameDataInsights:
     def __init__(self, config_path="config.ini"):
         self.config = self._load_config(config_path)
         # Configura caminhos padrões para os dados a partir do config.ini
-        self.roms_path = self.config.get('DATA', 'roms_path', fallback='roms.pkl')
+        self.roms_path = self.config.get('DATA', 'roms_path', fallback='fbneo.pkl')
         self.games_path = self.config.get('DATA', 'games_path', fallback='games.csv')
         self.roms = None
         self.games_df = None

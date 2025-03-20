@@ -399,12 +399,11 @@ class GameImageEditor:
 
 if __name__ == "__main__":
     # Exemplo de configuração inicial via JSON
-    
     if os.path.exists("updated_config.json"):
         with open("updated_config.json", "r", encoding="utf-8") as f:
             config = json.load(f)
-            # Exemplo de dados do jogo
 
+    
     game_data = {
         "game_name": "Street Fighter II",
         "game_description": "Street Fighter II foi lançado originalmente para Arcade em 1991 com o subtítulo 'The World Warrior'. Revolucionou os jogos de luta com seus movimentos especiais e personagens icônicos, marcando uma era nos games.",
@@ -413,8 +412,10 @@ if __name__ == "__main__":
     }
     
     editor = GameImageEditor(config, game_data)
+
     # Para modo interativo, utilize editor.run(). Para salvar diretamente, chame save_image() e save_json().
-    mode_interativo = True
+    mode_interativo = False
+
     if mode_interativo:
         editor.run()
     else:
