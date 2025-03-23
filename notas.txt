@@ -205,3 +205,26 @@ Feedback: Documente insights e possíveis melhorias durante o processo.
 Logging: Implemente logs para monitorar a execução e facilitar a depuração.
 Erro e Exceções: Trate exceções para evitar que o programa quebre inesperadamente.
 Performance: Otimize trechos de código que possam impactar o desempenho.
+
+
+Com o schema como referencia crie uma classe que availe as roms que estão no path que vou passar utilizando a funcao FTPManager do arquivo em anexo, 
+e obtenha a lista de arquivos do diretorio e compare a lista com o arquivo xml que esta em anexo, o nome do arquivo (sem extensao) voce compara com 
+o sqlite games.name + o nome sistema que vou passar como referencia. Os itens que nao derem match no banco de dados voce vai comparar os nomes limpos 
+(sem os itens dentro de parenteses) com o conteudo games.title (tambem limpo) 2º passada, e então para os restantes que nao derem match, voce vai obter 
+os campos do xml e popular os sistema com os itens que voce encontrar no primeiro match do banco exemplo no xml voce vai encontrar os seguintes campos:
+para cada game voce tera o objeto xml.game.name = sql.games.title, xml.game.descripton = sql.games.desc, xml.game.year = sql.games.year, 
+xml.game.manufacturer = sql.games.developer and sql.games.publisher, todos os outros campos (games:  , info, genres, players, aspectratio, resolution, 
+order_id esse campo é uma especie de indice externo que é para mostrar o jogo no front-end acredito que ele pega o indice depois que fez o insert e 
+coloca la depois se o banco reordena o indice ele nao afeta esse campo, def_core_id) voce cria um dicionario com as informações do match, tirando o 
+id que é auto assinado e faz um insert para o no games. depois para todos os itens (arquivo fisico do servidor ftp com o devido match), 
+voce vai inserir o arquivo no games_available com o dados de games_available.path(ftp_roms_path + "/" + rom_name+"."+extensao) games_available.filesize 
+(com size do xml caso houver, caso contrario deixe em branco), coreid que eu vou passar como padrao.
+
+
+
+<game name="Mario Paint">
+    <description>Mario Paint is an education tool that allows anyone to create simple pictures</description>
+    <year>1992</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="mariopntu1.zip" size="465383" />
+</game>

@@ -1,0 +1,5 @@
+systems: ID, name, desc, parent, sysmask
+cores: id, corename
+games_available: game_id, path, filesize, coreid
+games: ID, system, subsystem, name, cloneof, title, year, desc, info, releasedate, developer, publisher, genres, players, aspectratio, resolution, order_id, def_core_id
+

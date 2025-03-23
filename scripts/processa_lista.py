@@ -1,5 +1,5 @@
 import os
-from .my_ftp_man import FTPManager
+from my_ftp_man import FTPManager
 import configparser
 import pickle
 
@@ -39,14 +39,26 @@ def process_list(ftp_manager, remote_path, lpl_name, pkl_path, config_path):
 
 if __name__ == '__main__':
     # Configurações do servidor FTP
+    
     ftp = FTPManager()
-    print(ftp)
+    retroarch_path = "/dev_hdd0/game/SSNE10000/USRDIR/"
+    ra_cfg_path = retroarch_path + "retroarch.cfg"
+    retroarch_cfg = ftp.download_file(ra_cfg_path, "data/downloads/retroarch.cfg")
+    print(retroarch_cfg)
+    """
+    list_path = "/dev_hdd0/game/SSNE10000/USRDIR/cores/playlists/"
+    root_roms = '/dev_hdd0/ROMS/'
+    dirs_roms = ftp.list_files(root_roms)
+    dirs_roms = [d for d in dirs_roms if not d.endswith('.PNG')]
+    dirs_roms = [d for d in dirs_roms if not d.startswith('.')]
+    dirs_roms.sort()
+    """
+    ftp.close()
     quit()
     # Caminhos
-    remote_path = '/path/to/listas'
     lpl_name = 'example.lpl'
     pkl_path = '/path/to/rom_data.pkl'
-    config_path = '/path/to/config.ini'
+    
 
     # Inicializar o gerenciador FTP
     ftp_manager = FTPManager(ftp_host, ftp_user, ftp_password)
